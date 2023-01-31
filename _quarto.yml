@@ -1,0 +1,31 @@
+project:
+  type: website
+  render: 
+    - index.qmd
+    - quant_talks.qmd
+    - quant_talks
+    - workshop.qmd
+    - workshop
+    - resources.qmd
+
+website:
+  title: "USC McArdle GC-3 Center"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: quant_talks.qmd
+        text: "Quant Speaker Series"
+      - href: workshop.qmd
+        text: "Workshop"
+      - href: resources.qmd
+        text: "Resources"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

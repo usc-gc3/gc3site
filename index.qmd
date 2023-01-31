@@ -1,0 +1,23 @@
+---
+title: "Welcome to McArdle GC-3 Center!"
+---
+
+## Overview
+
+The aim of the Graduate Consultation and Computer Center (GC3) is to provide free statistical consultation to progressive masters students, doctoral students and faculty in the USC Psychology Department. The center provides support for students working on research projects, including but not limited to: poster presentations, symposia, journal articles, theses, and dissertations. The center is equipped with computers, as well as a variety of statistical programs for students and faculty to use with or without the assistance of the TA consultants. The center also provides workspace for those to bring their own computers and work on projects, individually or as small teams.
+
+## Walk-in Hours (2023 Spring)
+
+We have Yichi Zhang and Winnie Wing-Yee Tse as the GC-3 TA Consultants in Spring 2023. We welcome you to bring along your statistical and analytical questions and visit us at SGM 718 during our walk-in hours:
+
+-   Tuesday 10:30 am - 1:30 pm
+
+-   Friday 1:00 pm - 4:00 pm
+
+If the walk-in hours do not work for you, please feel free to email us at [gc3\@usc.edu](gc3@usc.edu).
+
+[Location]{.underline}
+
+SGM 718\
+3620 McClintock Ave\
+Los Angeles, CA 90089

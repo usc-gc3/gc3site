@@ -1,0 +1,22 @@
+---
+title: "Some development and applications of longitudinal data analysis methods in psychology research"
+subtitle: "USC Quantitative Speaker Series (Fall 2022)"
+---
+
+**Date: November 17, 2022**
+
+**Speaker: Lijuan (Peggy) Wang, Ph.D.**
+
+Professor\
+Department of Psychology\
+University of Notre Dame
+
+[**Video Recording**](https://drive.google.com/file/d/1xvskoV_VQzKJQnmOtcfPYSC_VhZJkXp1/view?usp=share_link) (requires sign in using your USC NetID)
+
+### Abstract
+
+In this talk, I will discuss the development of some longitudinal data analysis methods and how we apply the methods to address questions in cognitive aging, developmental psychology, clinical psychology, and health disparities research. I will start the talk with two projects I conducted with Dr. Jack McArdle, in which we developed methods for estimating unknown change points or handling ceiling/floor data in growth curve modeling. I will illustrate the applications of the methods using two real-data examples in cognitive aging. After that, I will discuss whether, why, and how we should disaggregate within-person and between-person relations in longitudinal research. I will illustrate the applications of the methods using four real-data examples. In the first application example, I will study within-person and between-person relations of being honest to mental health. In the second and third application examples, I will investigate the within-person and between-person mediation effects of perceived discrimination on mental health in Latino youth using macro-time and micro-time longitudinal data. In the fourth application example, I will test the within-person, between-person, and cross-level moderation effects of youth coping strategies in the discrimination-adjustment links. I will end the talk by discussing my other ongoing and future research projects.
+
+### Bio
+
+Dr. Lijuan "Peggy" Wang's research interests are in the areas of longitudinal data analysis methods, mediation and moderation analysis, cumulative data analysis methodology, causal inference, and study design issues Substantively, she is interested in applying quantitative methods in developmental psychology, family psychology, clinical psychology, and health disparities research.

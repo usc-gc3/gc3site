@@ -1,0 +1,21 @@
+---
+title: "A Discussion on The Uses of Power"
+subtitle: "USC Quantitative Speaker Series (Fall 2021)"
+---
+
+**Date: November 16, 2021**
+
+**Speaker: Jolynn Pek, Ph.D.**
+
+Associate Professor\
+The Ohio State University 
+
+[**Video Recording**](https://drive.google.com/file/d/1h4ghIFO22nY7DhTZhjEtLGouCnnVhiU4/view?usp=share_link) (requires sign in using your USC NetID)
+
+### Abstract
+
+Statistical power continues to be much researched and applied owing to concerns about the credibility and replicability of psychological findings. We consider power calculations in the abstract (i.e., without data), and review calculations that incorporate sampling variability when effect sizes are estimated from collected data. Power calculated from estimated effect sizes have been used to (a) design future research (b) characterize the power of designs used in a literature that served as input to the power calculation, or to (c) evaluate whether the obtained results can be trusted. We end with an open discussion on these uses of power. 
+
+### Bio
+
+Dr. Jolynn Pek is an associate professor of Quantitative Psychology in the Department of Psychology at The Ohio State University. She received her Ph.D. in Quantitative Psychology from the University of North Carolina at Chapel Hill at the L. L. Thurstone Psychometric Laboratory in 2021. She was recently elected as a member of the Society for Multivariate Behavioral Research in 2017 and was awarded the Early Researcher Award by the Ontario Ministry of Research and Innovation in 2016. Her research interests are motivated by quantifying uncertainty inherent in results obtained from fitting models to data, especially latent variable models. Quantifying uncertainty is fundamental to understanding the limits of statistical results and ascertaining statistical conclusion validity. 

@@ -1,0 +1,22 @@
+---
+title: "Prevalence, Influences, and Handling Methods of Non-normal Data"
+subtitle: "USC Quantitative Speaker Series (Spring 2022)"
+---
+
+**Date: May 3, 2022**
+
+**Speaker: Zhiyong (Johnny) Zhang, Ph.D.**
+
+Professor\
+Department of Psychology\
+University of Notre Dame
+
+[**Video Recording**](https://drive.google.com/file/d/1B6xjURmgHFjE10RVXERTYTKZVQGGVeUU/view?usp=share_link) (requires sign in using your USC NetID)
+
+### Abstract
+
+Researchers have repeatedly pointed out that normal data are like fantasies and have been rarely observed in social science research. However, most statistical methods have been developed for complete and normal data. In this talk, I will first review the prevalence of non-normal data in social science research and discuss their influences on statistical data analysis. Then, I will present methods we have developed to handle non-normal data in both the frequentist and Bayesian frameworks. I will argue that non-normal data offer unique opportunities to both methodologists and substantive researchers.
+
+### Bio
+
+Zhiyong (Johnny) Zhang received his Ph.D. in quantitative psychology from the University of Virginia in 2008. He is now a professor in the Department of Psychology at the University of Notre Dame. His research focuses on developing new methods and software for practical data analysis in psychology, education, and health research. His most recent research focuses on social network analysis and text mining. He is an elected member of the Society of Multivariate Experimental Psychology and a fellow of American Psychological Association. He is the Editor of the Journal of Behavioral Data Science, and an Associate Editor of *Multivariate Behavioral Research* and *Neurocomputing*. More information about him can be found on his website [[https://bigdatalab.nd.edu]{.underline}](https://urldefense.com/v3/__https://bigdatalab.nd.edu/__;!!LIr3w8kk_Xxm!tXF4ZaBfDKNsWQXm4zGf4a3xCmz7bkkRUUZboZWhNYR9qo-Zp29JtUovmlcASnX8rckGPyGOdwbvSPYk5V9H6Q$).

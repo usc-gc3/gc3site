@@ -1,0 +1,23 @@
+---
+title: "Measurement Practices, Metascience, and the Methodological Reform Movement"
+subtitle: "USC Quantitative Speaker Series (Spring 2022)"
+---
+
+**Date: March 22, 2022**
+
+**Speaker: Jessica Flake, Ph.D.**
+
+Assistant Professor\
+McGill University
+
+[**Video Recording**](https://drive.google.com/file/d/16h5zuOtsB6ZZJnFpFD0iHEsfTGpVzt-Z/view?usp=share_link) (requires sign in using your USC NetID)
+
+### Abstract
+
+Psychology\'s replication crisis has prompted a methodological reform movement. How we do our research is changing: open science, big team science, and concerns over questionable research practices are here to stay. We\'ve seen progress toward transparency, rigor, and the quality of our work, but these reforms largely preclude measurement practices. In this presentation I\'ll discuss how measurement plays a fundamental role in the quality and replicability of psychological science. I will review my metascientific research on measurement practices in original and replication research. This metascience points us to where the methods reform movement needs to go next and how methodologists can contribute. I will share my on-going research that integrates construct validation and psychometric rigor into large-scale replication research. I will discuss next steps for methodological development, particularly the need to develop practices for assessing measurement equivalence in large and complex data structures.
+
+### Bio
+
+Dr. Flake is an Assistant Professor of Quantitative Psychology and Modelling at McGill University. She received an MA in quantitative psychology from James Madison University and a PhD in Measurement, Evaluation, and Assessment from the University of Connecticut. Her research develops and applies latent variable models for use in psychological research with an emphasis on improving measure development and use. [Her work is highly cited and published in top methodological and substantive outlets](https://urldefense.com/v3/__https:/scholar.google.com/citations?user=kvrqwL8AAAAJ&hl=en__;!!LIr3w8kk_Xxm!_f3Bv8lG43afNCKwD4ofx_-WVLm6s63-DWqbhP1FVcRxF3UAZ5QNYNmCL8HjqIw$) such as *Nature: Human Behavior, Psychological Methods, Advances in Methods and Practices in Psychological Science, Structural Equation Modeling, Psychological Science,* and the *Journal of Personality and Social Psychology.* She was named an Association of Psyhcological Science Rising Star in 2021 and received a Society for the Improvement of Psychological Science Commendation in 2020 for her research into questionable measurement practices.
+
+Her work focuses on technical and applied aspects of psychological measurement including scale development, psychometric modelling, and scale use and replicability. She is a top-rated professor in the Department of Psychology at McGill University, regularly teaching measurement and statistics courses as well as workshops at international conferences. Further, she routinely works in applied psychometrics as a technical advisory panel member for the [Enrollment management Association](https://urldefense.com/v3/__https:/www.enrollment.org/people/jessica-kay-flake__;!!LIr3w8kk_Xxm!_f3Bv8lG43afNCKwD4ofx_-WVLm6s63-DWqbhP1FVcRxF3UAZ5QNYNmCV7Vu0LM$), a non-profit that develops educational assessments, and serves as the [Assistant Director for Methods at the Psychological Science Accelerator](https://urldefense.com/v3/__https:/reporter.mcgill.ca/taking-a-global-approach-to-psychology-research/__;!!LIr3w8kk_Xxm!_f3Bv8lG43afNCKwD4ofx_-WVLm6s63-DWqbhP1FVcRxF3UAZ5QNYNmColD5E8Q$), a laboratory network that conducts large-scale studies. [Visit her website to learn more](https://urldefense.com/v3/__https:/www.jessicakayflake.com/overview__;!!LIr3w8kk_Xxm!_f3Bv8lG43afNCKwD4ofx_-WVLm6s63-DWqbhP1FVcRxF3UAZ5QNYNmCcJV31_U$).

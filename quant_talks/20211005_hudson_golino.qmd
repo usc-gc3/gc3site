@@ -1,0 +1,21 @@
+---
+title: "On networks and online Russian trolls: How can the total entropy ﬁt index be applied to optimize the number of embedded dimensions used in dynamic exploratory graph analysis, and why does it matter?"
+subtitle: "USC Quantitative Speaker Series (Fall 2021)"
+---
+
+**Date: October 5, 2021**
+
+**Speaker: Hudson Golino, Ph.D.**
+
+Assistant Professor of Psychology\
+University of Virginia
+
+[**Video Recording**](https://drive.google.com/file/d/1o214dWx6OCVNo9-usObg8KVtiSUuMf-K/view?usp=share_link) (requires sign in using your USC NetID)
+
+### Abstract
+
+The current presentation will show how a new ﬁt index for dimensionality analysis termed total entropy ﬁt index can be applied to tune the number of embedded dimensions used in the dynamic exploratory graph analysis (DynEGA) technique. DynEGA uses dynamical systems and network psychometrics to estimate the number of (dynamic) latent factors in multivariate time-series of continuous or categorical data. For each time series generalized local linear approximation (GLLA) is used to compute n-order derivatives for each individual. The stacked matrix of derivatives (combined row-wise) is then used to estimate a network structure in which communities represent dynamical factors. GLLA requires the user to set the number of embedded dimensions to transform each time series into a time delay embedding matrix. In a Monte-Carlo simulation, we show that the total entropy ﬁt index can be used in a grid search to ﬁnd the optimal number of embedded dimensions. In an applied example, we performed DynEGA with the TEFI optimization on a large dataset with Twitter posts from state-sponsored right- and left-wing trolls during the 2016 U.S. presidential election. DynEGA revealed factors (in this case latent topics) that were pertinent to several consequential events in the election cycle, demonstrating the coordinated effort of trolls capitalizing on current events in the U.S. This example demonstrates the potential power of our approach for revealing temporally relevant information from qualitative text data.
+
+### Bio
+
+Dr. Hudson Golino completed his Ph.D. in March 2015 at the Universidade Federal de Minas Gerais (Brazil), where he studied applications of machine learning in Psychology, Education and Health. His research focuses on quantitative methods, psychometrics and machine learning applied in the fields of psychology, health and education. He is particularly interested in new ways to assess the number of dimensions (i.e. latent variables) underlying multivariate data using network psychometrics. He has been developing a new set of quantitative techniques and metrics, integrated in a general approach -- termed Exploratory Graph Analysis (EGA), that is part of the relatively new area of network psychometrics. Particularly, he combines network science, information and quantum information theory, as well as computational methods to address fundamental problems in psychometrics.

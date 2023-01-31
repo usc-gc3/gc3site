@@ -1,0 +1,21 @@
+---
+title: "Applications of Data-Driven Methods for Studying Dynamic, Person-Specific processes"
+subtitle: "USC Quantitative Speaker Series (Fall 2021)"
+---
+
+**Date: October 19, 2021**
+
+**Speaker: Kathleen Gates, Ph.D.**
+
+Associate Professor\
+The University of North Carolina at Chapel Hill
+
+[**Video Recording**](https://drive.google.com/file/d/1xmq9L7tKSvTNT1jrlZJTZLcpfVxGAcdw/view?usp=share_link) (requires sign in using your USC NetID)
+
+### Abstract
+
+The use of time series data in psychological and neural research is on the rise. This increase largely can be attributed to greater ease in gathering numerous observations per person via the use of smart phones, automated behavioral coding, wearable technologies, and psychophysiological data. Often the end goal is to arrive at a better understanding of individuals' processes. From these individual-level findings, we can get closer to personalized interventions as well as obtain insights into meaningful similarities across individuals and aspects of human processes that may generalize to the population. Arriving at personalized dynamic models often requires the use and adaptation of machine learning methods such as unsupervised classification, feature selection, and model-building. This talk focuses on the application of such methods on a few data sets collected across various domains of psychological inquiry including self-report data and functional MRI.
+
+### Bio
+
+Dr. Kathleen Gates is an associate professor of Quantitative Psychology in the Department of Psychology at the University of North Carolina at Chapel Hill. She is a member of the Human Neuroimaging Group and affiliated faculty of the UNC Biomedical Research Imaging Center (BRIC). She obtained her Ph.D. in the Department of Human Development and Family Studies (quant focus) at Penn State, a Masters of Forensic Psychology at the City University of New York (John Jay College), and a BS in Psychology from Michigan State University. Dr.'s work is motivated by problems in analyzing individual-level data. She develops algorithms and programs that may aid researchers in better quantifying behavioral, psychophysiological, and emotional processes across time. She is a co-inventor of GIMME, an algorithm for finding mathematical models of psychophysiological processes across time. The end goal is to help researchers identify patterns within individuals so we can provide person-specific prevention, treatment, and intervention protocols as well as better understand the varied basic physiological underpinnings for emotions, cognition, and behaviors.

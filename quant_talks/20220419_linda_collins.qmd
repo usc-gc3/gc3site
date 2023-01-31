@@ -1,0 +1,22 @@
+---
+title: "Engineering an intervention to achieve EASE: The multiphase optimization strategy (MOST)"
+subtitle: "USC Quantitative Speaker Series (Spring 2022)"
+---
+
+**Date: April 19, 2022**
+
+**Speaker: Linda M. Collins, Ph.D.**
+
+Professor of Social and Behavioral Sciences and Professor of Biostatistics\
+School of Global Public Health\
+New York University
+
+[**Video Recording**](https://drive.google.com/file/d/1NWNMbzHA_H8HQdySk1q8o9FDPsxaOGWc/view?usp=share_link) (requires sign in using your USC NetID)
+
+### Abstract
+
+Multicomponent behavioral and biobehavioral interventions are used widely for prevention and treatment of health problems and promotion of health and educational achievement. These interventions are typically developed and evaluated using a treatment package approach, in which the intervention is assembled a priori and evaluated by means of a two-group randomized control trial (RCT). In this presentation I will briefly introduce an expanded methodological framework for developing, optimizing, and evaluating behavioral and biobehavioral interventions. This framework, called the multiphase optimization strategy (MOST), is a principled approach that integrates ideas from behavioral science, engineering, multivariate statistics, health economics, and decision science. MOST enables the investigator to balance intervention effectiveness, affordability, scalability, and efficiency to achieve intervention *EASE.* Using MOST, behavioral and biobehavioral interventions can be optimized to meet an objective chosen by the investigator. The objective may be any reasonable goal, such as an intervention that offers the best expected outcome achievable without exceeding a specified upper limit on implementation cost or time. MOST relies heavily on resource management by strategic choice of highly efficient experimental designs, including the RCT where appropriate. Recent advances include an approach to identifying cost-effective interventions. I propose that MOST offers several benefits, including more rapid long-run improvement of interventions, without requiring a dramatic increase in research resources.
+
+### Bio
+
+Linda M. Collins is Professor of Social and Behavioral Sciences and Professor of Biostatistics in the School of Global Public Health, New York University. She previously held faculty positions at Penn State and the University of Southern California. Dr. Collins\'s interests are focused on development, dissemination, and application of the multiphase optimization strategy (MOST), an engineering-inspired methodological framework for optimizing and evaluating behavioral, biobehavioral, biomedical, and social-structural interventions. The objective of MOST is to improve intervention effectiveness, affordability, scalability, and efficiency, balancing these strategically to achieve intervention *EASE*. Dr. Collins has collaborated on research applying MOST in a range of areas, including HIV, smoking cessation, prevention of sexually transmitted infections, and weight loss. She is also collaborating on development of methods for decision-making based on the results of an optimization trial; optimizing interventions for cost-effectiveness; and optimizing adaptive interventions. Her research has been funded by the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism, the National Cancer Institute, the National Institute of Diabetes and Digestive and Kidney Diseases, and the National Science Foundation. Dr. Collins\'s publications have appeared in journals in the behavioral sciences, quantitative methodology, medicine, and engineering. Among the honors she has received are a Fulbright Specialist grant, the President\'s Award from the Society for Prevention Research, and the 2020 Valkhov Chair from Radboud University Medical Centre in The Netherlands.
