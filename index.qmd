@@ -4,19 +4,30 @@ title: "Welcome to McArdle GC-3 Center!"
 
 ## Overview
 
-The aim of the Graduate Consultation and Computer Center (GC3) is to provide free statistical consultation to progressive masters students, doctoral students and faculty in the USC Psychology Department. The center provides support for students working on research projects, including but not limited to: poster presentations, symposia, journal articles, theses, and dissertations. The center is equipped with computers, as well as a variety of statistical programs for students and faculty to use with or without the assistance of the TA consultants. The center also provides workspace for those to bring their own computers and work on projects, individually or as small teams.
+The aim of the John J. McArdle Graduate Consultation and Computer Center (GC3)  is to provides free statistical consultation to progressive masters students, doctoral students and faculty in the USC Psychology Department. The center provides support for students working on research projects, including but not limited to: poster presentations, symposia, journal articles, theses, and dissertations. The center is equipped with computers, as well as a variety of [statistical programs](https://dornsife.usc.edu/psyc/statistical-programs-page/)for students and faculty to use with or without the assistance of the GC3 consultants. The center also provides workspace for those to bring their own computers and work on projects, individually or as small teams.
 
-## Walk-in Hours (2023 Spring)
+## Walkin Hours & Appointments
 
-We have Yichi Zhang and Winnie Wing-Yee Tse as the GC-3 TA Consultants in Spring 2023. We welcome you to bring along your statistical and analytical questions and visit us at SGM 718 during our walk-in hours:
+TAGC3 consultants are available by appointment and walk-in hours. Please [fill out this form and upload relevant files](https://forms.gle/RYxWnyUwrJRBY5bu9) **48** hours prior to the appointment/walk-in hours. The GC3 office is at **SGM 718**. Note that you will need a door code to get into GC3; if you do not have one, or do not have access yet to GC3 with your existing code, please contact Gabriel Gonzalez ([gonzaleg\@usc.edu](mailto:gonzaleg@usc.edu)) to get a code or to give your existing code access to the GC3 lab.
+
+Our TAGC3 consultants in Spring 2023 are Yichi Zhang and Winnie Wing-Yee Tse. We welcome you to bring along your statistical and analytical questions and visit us at SGM 718 during our walk-in hours:
 
 -   Tuesday 10:30 am - 1:30 pm
-
 -   Friday 1:00 pm - 4:00 pm
 
-If the walk-in hours do not work for you, please feel free to email us at [gc3\@usc.edu](gc3@usc.edu).
+Please note that appointments are currently available only to members of the USC Psychology Department. To make an appointment (online or in-person), please fill out the form first and email [gc3\@usc.edu](mailto:gc3@usc.edu), one of current TAs will contact you.
 
-[Location]{.underline}
+## Quantitative Speaker Series
+
+In additon to being a resource for one-on-one statistical consultation, the GC3 has hosted a number of lectures on a wide variety of statistical topics, many of which have been recorded and posted on the web. Please [click here](quant_talks.html) more information about lectures given in the GC3.
+
+## Training Sessions/ Workshops
+
+Throughout the semester, we will host a couple training sessions focused on popular statistical analysis or softwares techniques to support cutting-edge psychological research. The training sessions are free and open to all students within department of psychology.\
+
+Stay tuned to our schedules and feel free to join us!
+
+## Location
 
 SGM 718\
 3620 McClintock Ave\
