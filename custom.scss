@@ -1,0 +1,45 @@
+/*-- scss:defaults --*/
+$header-text-color: #f7f7f9;
+$usc-red: #990001;
+$usc-yellow: #ffcc01;
+$dark-yellow: #d4aa00;
+
+/*-- scss:rules --*/
+.navbar-dark {
+  background-color: $usc-red;
+  .navbar-brand {
+    color: $header-text-color;
+  }
+  .navbar-nav {
+    .nav-link {
+      color: $header-text-color;
+    }
+    .nav-link.active {
+      color: $header-text-color;
+    }
+  }
+}
+.navbar {
+  border-color: $usc-yellow;
+  #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
+    color: $header-text-color;
+  }
+}
+
+a {
+  color: $dark-yellow;
+}
+
+.sidebar nav[role=doc-toc] ul>li>a.active {
+  border-left: 1px solid $usc-red;
+  color: $usc-red !important;
+}
+
+.nav-footer {
+  font-size: 18px;
+  .nav-footer-right {
+  .footer-items .nav-item .nav-link {
+    padding: 0rem 0rem 0rem .2rem;
+  }
+}
+}

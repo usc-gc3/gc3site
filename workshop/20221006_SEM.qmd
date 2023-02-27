@@ -1,0 +1,16 @@
+---
+title: "Structural Equation Modeling"
+subtitle: "USC GC-3 Workshop (Fall 2022)"
+---
+
+**Date: October 6, 2022**
+
+**Speaker: Jimmy Zhang**
+
+### Abstracts
+
+In this event, we will cover the basics of SEM followed by an illustrative example using the R package lavaan. 
+
+<iframe width="80%" height="900"
+src="flyers/GC3 SEM.pdf"></iframe>
+

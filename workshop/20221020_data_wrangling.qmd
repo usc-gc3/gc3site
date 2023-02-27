@@ -1,0 +1,17 @@
+---
+title: "Data Wrangling and Visualization in R"
+subtitle: "USC GC-3 Workshop (Fall 2022)"
+---
+
+**Date: October 20, 2022**
+
+**Speaker: Winnie Wing-Yee Tse**
+
+### Abstract
+
+Statistical analyses in R have become easy and popular, making the R skills to prepare data and present results essential. This workshop will briefly introduce the tidyverse “mega-package” for data transformation and visualization. Topics of this workshop include how to manipulate data frames (e.g., filter out row values, select and create variables, and merge across multiple data frames), how to make histograms and scatterplots using ggplot2, and how to make reproducible HTML/PDF reports in R.
+The second half of the workshop will be hands-on practices with the tidyverse package. I encourage you to bring along your data set, and we can work together on the specific tasks of data manipulation and visualization for your project :) 
+
+<iframe width="80%" height="900"
+src="flyers/GC-3 Data Wrangling.pdf"></iframe>
+

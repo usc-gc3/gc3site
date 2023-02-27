@@ -4,7 +4,7 @@ title: "Welcome to McArdle GC-3 Center!"
 
 ## Overview
 
-The aim of the John J. McArdle Graduate Consultation and Computer Center (GC3)  is to provides free statistical consultation to progressive masters students, doctoral students and faculty in the USC Psychology Department. The center provides support for students working on research projects, including but not limited to: poster presentations, symposia, journal articles, theses, and dissertations. The center is equipped with computers, as well as a variety of [statistical programs](https://dornsife.usc.edu/psyc/statistical-programs-page/)for students and faculty to use with or without the assistance of the GC3 consultants. The center also provides workspace for those to bring their own computers and work on projects, individually or as small teams.
+The aim of the John J. McArdle Graduate Consultation and Computer Center (GC3)  is to provides free statistical consultation to progressive masters students, doctoral students and faculty in the USC Psychology Department. The center provides support for students working on research projects, including but not limited to: poster presentations, symposia, journal articles, theses, and dissertations. The center is equipped with computers, as well as a variety of [statistical programs](https://dornsife.usc.edu/psyc/statistical-programs-page/) for students and faculty to use with or without the assistance of the GC3 consultants. The center also provides workspace for those to bring their own computers and work on projects, individually or as small teams.
 
 ## Walkin Hours & Appointments
 
@@ -19,7 +19,7 @@ Please note that appointments are currently available only to members of the USC
 
 ## Quantitative Speaker Series
 
-In additon to being a resource for one-on-one statistical consultation, the GC3 has hosted a number of lectures on a wide variety of statistical topics, many of which have been recorded and posted on the web. Please [click here](quant_talks.html) more information about lectures given in the GC3.
+In additon to being a resource for one-on-one statistical consultation, the GC3 has hosted a number of lectures on a wide variety of statistical topics, many of which have been recorded and posted on the web. Please [click here](workshop.html) more information about lectures given in the GC3.
 
 ## Training Sessions/ Workshops
 
