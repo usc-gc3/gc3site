@@ -8,7 +8,6 @@ project:
     - workshop
     - resources.qmd
     - others
-    - flyers
 
 website:
   title: "USC McArdle GC-3 Center"

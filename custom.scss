@@ -29,6 +29,9 @@ $dark-yellow: #d4aa00;
 a {
   color: $dark-yellow;
 }
+a:hover {
+  color: $usc-red;
+}
 
 .sidebar nav[role=doc-toc] ul>li>a.active {
   border-left: 1px solid $usc-red;

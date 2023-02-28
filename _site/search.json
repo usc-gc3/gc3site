@@ -11,21 +11,21 @@
     "href": "index.html#walkin-hours-appointments",
     "title": "Welcome to McArdle GC-3 Center!",
     "section": "Walkin Hours & Appointments",
-    "text": "Walkin Hours & Appointments\nTAGC3 consultants are available by appointment and walk-in hours. Please fill out this form and upload relevant files 48 hours prior to the appointment/walk-in hours. The GC3 office is at SGM 718. Note that you will need a door code to get into GC3; if you do not have one, or do not have access yet to GC3 with your existing code, please contact Gabriel Gonzalez (gonzaleg@usc.edu) to get a code or to give your existing code access to the GC3 lab.\nOur TAGC3 consultants in Spring 2023 are Yichi Zhang and Winnie Wing-Yee Tse. We welcome you to bring along your statistical and analytical questions and visit us at SGM 718 during our walk-in hours:\n\nTuesday 10:30 am - 1:30 pm\nFriday 1:00 pm - 4:00 pm\n\nPlease note that appointments are currently available only to members of the USC Psychology Department. To make an appointment (online or in-person), please fill out the form first and email gc3@usc.edu, one of current TAs will contact you."
+    "text": "Walkin Hours & Appointments\nGC3 TA consultants are available by appointment and walk-in hours. Please fill out this form and upload relevant files 48 hours prior to the appointment/walk-in hours. The GC3 office is at SGM 718.\n\nOur GC3 TA consultants in Spring 2023 are Yichi Zhang and Winnie Wing-Yee Tse. We welcome you to bring along your statistical and analytical questions and visit us at SGM 718 during our walk-in hours:\n\nTuesday 10:30 am - 1:30 pm\nFriday 1:00 pm - 4:00 pm\n\nPlease note that appointments are currently available only to members of the USC Psychology Department. To make an appointment (online or in-person), please fill out the form first and email gc3@usc.edu, one of current TAs will contact you."
   },
   {
     "objectID": "index.html#quantitative-speaker-series",
     "href": "index.html#quantitative-speaker-series",
     "title": "Welcome to McArdle GC-3 Center!",
     "section": "Quantitative Speaker Series",
-    "text": "Quantitative Speaker Series\nIn additon to being a resource for one-on-one statistical consultation, the GC3 has hosted a number of lectures on a wide variety of statistical topics, many of which have been recorded and posted on the web. Please click here more information about lectures given in the GC3."
+    "text": "Quantitative Speaker Series\nIn addition to being a resource for one-on-one statistical consultation, the GC3 has hosted a number of quantitative talks on a wide variety of statistical topics, many of which have been recorded and posted on the web. Please click here more information about lectures given in the GC3."
   },
   {
     "objectID": "index.html#training-sessions-workshops",
     "href": "index.html#training-sessions-workshops",
     "title": "Welcome to McArdle GC-3 Center!",
     "section": "Training Sessions/ Workshops",
-    "text": "Training Sessions/ Workshops\nThroughout the semester, we will host a couple training sessions focused on popular statistical analysis or softwares techniques to support cutting-edge psychological research. The training sessions are free and open to all students within department of psychology.\n\nStay tuned to our schedules and feel free to join us!"
+    "text": "Training Sessions/ Workshops\nThroughout the semester, we will hold a couple training sessions focused on popular statistical analysis or software techniques to support cutting-edge psychological research. The training sessions are free and open to all students within department of psychology.\nStay tuned to our schedules and feel free to join us!"
   },
   {
     "objectID": "index.html#location",
@@ -173,6 +173,13 @@
     "title": "Resources",
     "section": "",
     "text": "Common Statistical Analyses\n\nStatistical analyses using SPSS\n\n\n\nPower Analysis\n\nG-Power Manual\nBias and Uncertainty Corrected Sample Size (BUCSS) R Pacakge\n\n\n\nMultilevel Modeling\n\nPSYC 575 Multilevel Modeling Course Website\nMultilevel Composite Reliability\n\n\n\nBayesian Analysis\n\nPSYC 573 Bayesian Analysis Course Website\nStatistical Rethinking Course Website\nBayesian Multilevel Modeling With Group Mean Centering\nHow to Install rstan and brms\n\n\n\nMissing Data\n\nOnline Book: Flexible Imputation of Missing Data by Stef van Buuren\nApplied Missing Data Analysis by Craig K. Enders\nUsing FIML in R for Multilevel data\n\n\n\nR\n\nR for Data Science\nAdvanced R by Hadley Wickham\nAn Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani\n\n\n\nMplus\n\nMplu Workshop on Structural Equation Modeling (SEM), Multilevel Modeling, and Multilevel SEM\n\n\n\nHigh Performance Computing at USC\n\nIntroduction to CARC Systems\nWorkshops from Advanced Research Computing\n\n\n\nMonte Carlo Simulation\n\nOnline workshop: Advancing Quantitative Sciences With Monte Carlo Simulation"
+  },
+  {
+    "objectID": "others/software.html",
+    "href": "others/software.html",
+    "title": "Statistical Programs Available at the GC3",
+    "section": "",
+    "text": "R/R Studio\n\nIf you need access to the rstan and brms R packages on the GC3 computers, please follow the instructions here to install them.\n\nPython\nMplus\nSPSS\nSAS"
   },
   {
     "objectID": "others/install_rstan.html",
