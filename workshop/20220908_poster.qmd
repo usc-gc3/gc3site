@@ -1,0 +1,16 @@
+---
+title: "Making Poster with R / Kick-Off Event"
+subtitle: "USC GC-3 Workshop (Fall 2022)"
+---
+
+**Date: September 8, 2022**
+
+**Speaker: Jimmy Zhang**
+
+### Abstracts
+
+In this event, we will demonstrate how to use Rmarkdown to make conference posters step-by-step.
+
+<iframe width="80%" height="900"
+src="flyers/2022 Kickoff.pdf"></iframe>
+

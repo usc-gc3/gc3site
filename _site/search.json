@@ -4,28 +4,28 @@
     "href": "index.html",
     "title": "Welcome to McArdle GC-3 Center!",
     "section": "",
-    "text": "The aim of the John J. McArdle Graduate Consultation and Computer Center (GC3)  is to provides free statistical consultation to progressive masters students, doctoral students and faculty in the USC Psychology Department. The center provides support for students working on research projects, including but not limited to: poster presentations, symposia, journal articles, theses, and dissertations. The center is equipped with computers, as well as a variety of statistical programsfor students and faculty to use with or without the assistance of the GC3 consultants. The center also provides workspace for those to bring their own computers and work on projects, individually or as small teams."
+    "text": "The aim of the John J. McArdle Graduate Consultation and Computer Center (GC3)  is to provides free statistical consultation to progressive masters students, doctoral students and faculty in the USC Psychology Department. The center provides support for students working on research projects, including but not limited to: poster presentations, symposia, journal articles, theses, and dissertations. The center is equipped with computers, as well as a variety of statistical programs for students and faculty to use with or without the assistance of the GC3 consultants. The center also provides workspace for those to bring their own computers and work on projects, individually or as small teams."
   },
   {
     "objectID": "index.html#walkin-hours-appointments",
     "href": "index.html#walkin-hours-appointments",
     "title": "Welcome to McArdle GC-3 Center!",
     "section": "Walkin Hours & Appointments",
-    "text": "Walkin Hours & Appointments\nTAGC3 consultants are available by appointment and walk-in hours. Please fill out this form and upload relevant files 48 hours prior to the appointment/walk-in hours. The GC3 office is at SGM 718. Note that you will need a door code to get into GC3; if you do not have one, or do not have access yet to GC3 with your existing code, please contact Gabriel Gonzalez (gonzaleg@usc.edu) to get a code or to give your existing code access to the GC3 lab.\nOur TAGC3 consultants in Spring 2023 are Yichi Zhang and Winnie Wing-Yee Tse. We welcome you to bring along your statistical and analytical questions and visit us at SGM 718 during our walk-in hours:\n\nTuesday 10:30 am - 1:30 pm\nFriday 1:00 pm - 4:00 pm\n\nPlease note that appointments are currently available only to members of the USC Psychology Department. To make an appointment (online or in-person), please fill out the form first and email gc3@usc.edu, one of current TAs will contact you."
+    "text": "Walkin Hours & Appointments\nGC3 TA consultants are available by appointment and walk-in hours. Please fill out this form and upload relevant files 48 hours prior to the appointment/walk-in hours. The GC3 office is at SGM 718.\n\nOur GC3 TA consultants in Spring 2023 are Yichi Zhang and Winnie Wing-Yee Tse. We welcome you to bring along your statistical and analytical questions and visit us at SGM 718 during our walk-in hours:\n\nTuesday 10:30 am - 1:30 pm\nFriday 1:00 pm - 4:00 pm\n\nPlease note that appointments are currently available only to members of the USC Psychology Department. To make an appointment (online or in-person), please fill out the form first and email gc3@usc.edu, one of current TAs will contact you."
   },
   {
     "objectID": "index.html#quantitative-speaker-series",
     "href": "index.html#quantitative-speaker-series",
     "title": "Welcome to McArdle GC-3 Center!",
     "section": "Quantitative Speaker Series",
-    "text": "Quantitative Speaker Series\nIn additon to being a resource for one-on-one statistical consultation, the GC3 has hosted a number of lectures on a wide variety of statistical topics, many of which have been recorded and posted on the web. Please click here more information about lectures given in the GC3."
+    "text": "Quantitative Speaker Series\nIn addition to being a resource for one-on-one statistical consultation, the GC3 has hosted a number of quantitative talks on a wide variety of statistical topics, many of which have been recorded and posted on the web. Please click here more information about lectures given in the GC3."
   },
   {
     "objectID": "index.html#training-sessions-workshops",
     "href": "index.html#training-sessions-workshops",
     "title": "Welcome to McArdle GC-3 Center!",
     "section": "Training Sessions/ Workshops",
-    "text": "Training Sessions/ Workshops\nThroughout the semester, we will host a couple training sessions focused on popular statistical analysis or softwares techniques to support cutting-edge psychological research. The training sessions are free and open to all students within department of psychology.\n\nStay tuned to our schedules and feel free to join us!"
+    "text": "Training Sessions/ Workshops\nThroughout the semester, we will hold a couple training sessions focused on popular statistical analysis or software techniques to support cutting-edge psychological research. The training sessions are free and open to all students within department of psychology.\nStay tuned to our schedules and feel free to join us!"
   },
   {
     "objectID": "index.html#location",
@@ -123,13 +123,76 @@
     "href": "workshop.html",
     "title": "GC-3 Workshops",
     "section": "",
-    "text": "Date\nTopic\nSpeaker\nDownload Materials\n\n\n\n\nSep 8, 2022\nMaking Poster with R (Recording)\nJimmy Zhang\ngithub\n\n\nOct 6, 2022\nStructural Equation Modeling (Recording)\nJimmy Zhang\ngithub\ngoogle drive\n\n\nOct 20, 2022\nData Wrangling and Visualization in R (Recording)\nWinnie Wing-Yee Tse\ngithub\ngoogle drive\n\n\nNov\nMeasurement Invariance Testing (Recording)\nYichi Zhang\ngithub\ngoogle drive"
+    "text": "Date\nTopic\nSpeaker\nDownload Materials\n\n\n\n\nMar 2, 2023\nFrom Scratch to Deployment: Making Your Personal Website With R\nWinnie Wing-Yee Tse\ngoogle drive"
+  },
+  {
+    "objectID": "workshop.html#fall-2022",
+    "href": "workshop.html#fall-2022",
+    "title": "GC-3 Workshops",
+    "section": "Fall 2022",
+    "text": "Fall 2022\n\n\n\nDate\nTopic\nSpeaker\nDownload Materials\n\n\n\n\nNov 3, 2022\nMeasurement Invariance Testing\nYichi Zhang\ngithub\ngoogle drive\n\n\nOct 20, 2022\nData Wrangling and Visualization in R\nWinnie Wing-Yee Tse\ngithub\ngoogle drive\n\n\nOct 6, 2022\nStructural Equation Modeling\nJimmy Zhang\n\n\n\nSep 8, 2022\nMaking Poster with R (Recording)\nJimmy Zhang"
+  },
+  {
+    "objectID": "workshop/20221020_data_wrangling.html",
+    "href": "workshop/20221020_data_wrangling.html",
+    "title": "Data Wrangling and Visualization in R",
+    "section": "",
+    "text": "Date: October 20, 2022\nSpeaker: Winnie Wing-Yee Tse\n\nAbstract\nStatistical analyses in R have become easy and popular, making the R skills to prepare data and present results essential. This workshop will briefly introduce the tidyverse “mega-package” for data transformation and visualization. Topics of this workshop include how to manipulate data frames (e.g., filter out row values, select and create variables, and merge across multiple data frames), how to make histograms and scatterplots using ggplot2, and how to make reproducible HTML/PDF reports in R. The second half of the workshop will be hands-on practices with the tidyverse package. I encourage you to bring along your data set, and we can work together on the specific tasks of data manipulation and visualization for your project :)"
+  },
+  {
+    "objectID": "workshop/20221103_measurement_invariance.html",
+    "href": "workshop/20221103_measurement_invariance.html",
+    "title": "Measurement Invariance Testing",
+    "section": "",
+    "text": "Date: November 3, 2022\nSpeaker: Yichi Zhang\n\nAbstract\nFor psychological research, it is important to validate the assumption that the observed group differences are due to the true group differences in latent constructs instead of the bias inherent in the scale/survey items. In order to conclude that the observed group differences are due to the latent construct, the scale should measure the same construct equivalently for each group, which is the concept of measurement invariance (MI). In this event, we will cover the basics of measurement invariance testing followed by an illustrative example using the R package lavaan."
+  },
+  {
+    "objectID": "workshop/20220908_poster.html",
+    "href": "workshop/20220908_poster.html",
+    "title": "Making Poster with R / Kick-Off Event",
+    "section": "",
+    "text": "Date: September 8, 2022\nSpeaker: Jimmy Zhang\n\nAbstracts\nIn this event, we will demonstrate how to use Rmarkdown to make conference posters step-by-step."
+  },
+  {
+    "objectID": "workshop/20230302_website_creation.html",
+    "href": "workshop/20230302_website_creation.html",
+    "title": "From Scratch to Deployment: Making Your Personal Website With R",
+    "section": "",
+    "text": "Date: March 2, 2023\nSpeaker: Winnie Wing-Yee Tse\n\nAbstract\nDo you want an easy-to-maintain personal website while showcasing your R skills? We are going to hold a workshop on creating personal websites using R Quarto! Quarto is a next-generation version of R Markdown and provides a quick and convenient way to publish documents. In an hour, we will make sure you will have a well-constructed skeleton of your site and deploy it on Quarto Pub before you step out of the GC-3 Center.\nRecommended preparation before the workshop\n\nInstall/update R Studio: https://posit.co/download/rstudio-desktop/\nInstall Quarto: https://quarto.org/docs/get-started/\nSign up for a Quarto Pub account: https://quartopub.com/"
+  },
+  {
+    "objectID": "workshop/20221006_SEM.html",
+    "href": "workshop/20221006_SEM.html",
+    "title": "Structural Equation Modeling",
+    "section": "",
+    "text": "Date: October 6, 2022\nSpeaker: Jimmy Zhang\n\nAbstracts\nIn this event, we will cover the basics of SEM followed by an illustrative example using the R package lavaan."
   },
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "About",
+    "title": "Resources",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Common Statistical Analyses\n\nStatistical analyses using SPSS\n\n\n\nPower Analysis\n\nG-Power Manual\nBias and Uncertainty Corrected Sample Size (BUCSS) R Pacakge\n\n\n\nMultilevel Modeling\n\nPSYC 575 Multilevel Modeling Course Website\nMultilevel Composite Reliability\n\n\n\nBayesian Analysis\n\nPSYC 573 Bayesian Analysis Course Website\nStatistical Rethinking Course Website\nBayesian Multilevel Modeling With Group Mean Centering\nHow to Install rstan and brms\n\n\n\nMissing Data\n\nOnline Book: Flexible Imputation of Missing Data by Stef van Buuren\nApplied Missing Data Analysis by Craig K. Enders\nUsing FIML in R for Multilevel data\n\n\n\nR\n\nR for Data Science\nAdvanced R by Hadley Wickham\nAn Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani\n\n\n\nMplus\n\nMplu Workshop on Structural Equation Modeling (SEM), Multilevel Modeling, and Multilevel SEM\n\n\n\nHigh Performance Computing at USC\n\nIntroduction to CARC Systems\nWorkshops from Advanced Research Computing\n\n\n\nMonte Carlo Simulation\n\nOnline workshop: Advancing Quantitative Sciences With Monte Carlo Simulation"
+  },
+  {
+    "objectID": "others/software.html",
+    "href": "others/software.html",
+    "title": "Statistical Programs Available at the GC3",
+    "section": "",
+    "text": "R/R Studio\n\nIf you need access to the rstan and brms R packages on the GC3 computers, please follow the instructions here to install them.\n\nPython\nMplus\nSPSS\nSAS"
+  },
+  {
+    "objectID": "others/install_rstan.html",
+    "href": "others/install_rstan.html",
+    "title": "How to Install rstan and brms",
+    "section": "",
+    "text": "Make sure R is up-to-date > 4.2\nConfigural C++ Toolchain\n\nSet up the C++ Toolchain using the macOS R toolchain installer\nTo improve estimation speed, you can copy the following syntax to the R console\n\n\n\ndotR <- file.path(Sys.getenv(\"HOME\"), \".R\")\nif (!file.exists(dotR)) dir.create(dotR)\nM <- file.path(dotR, \"Makevars\")\nif (!file.exists(M)) file.create(M)\narch <- ifelse(R.version$arch == \"aarch64\", \"arm64\", \"x86_64\")\ncat(paste(\"\\nCXX14FLAGS += -O3 -mtune=native -arch\", arch, \"-ftemplate-depth-256\"),\n    file = M, sep = \"\\n\", append = FALSE)\n\n\nTo install rstan, in the R console\n\nRemove all old rstan files, if they exist\n\n\n\nremove.packages(\"rstan\")\nif (file.exists(\".RData\")) file.remove(\".RData\")\n\n\nRestart R\nInstall StanHeaders and rstan\n\n\ninstall.packages(\"StanHeaders\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\ninstall.packages(\"rstan\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\n\n\nVerify installation (details)\n\n\nremove.packages(\"rstan\")\nif (file.exists(\".RData\")) file.remove(\".RData\")\n\ninstall.packages(\"StanHeaders\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\ninstall.packages(\"rstan\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\n\n\nInstall brms (details)\n\n\ninstall.packages(\"brms\")\n\nYou’re all set!"
+  },
+  {
+    "objectID": "others/install_rstan.html#for-windows-users",
+    "href": "others/install_rstan.html#for-windows-users",
+    "title": "How to Install rstan and brms",
+    "section": "For Windows Users",
+    "text": "For Windows Users\n\nMake sure R is up-to-date > 4.2\nConfigural C++ Toolchain (follow steps for R 4.2)\n\nInstall RTools42 (details; installer)\n\nTo install rstan, in the R console\n\nRemove all old rstan files, if they exist\n\n\n\nremove.packages(\"rstan\")\nif (file.exists(\".RData\")) file.remove(\".RData\")\n\n\nRestart R\nInstall StanHeaders and rstan\n\n\ninstall.packages(\"StanHeaders\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\ninstall.packages(\"rstan\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\n\n\nVerify installation (details)\n\n\nremove.packages(\"rstan\")\nif (file.exists(\".RData\")) file.remove(\".RData\")\n\ninstall.packages(\"StanHeaders\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\ninstall.packages(\"rstan\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\n\n\nInstall brms (details)\n\n\ninstall.packages(\"brms\")\n\nYou’re all set!"
   }
 ]

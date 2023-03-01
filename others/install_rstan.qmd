@@ -1,0 +1,105 @@
+---
+title: "How to Install rstan and brms"
+date: "`r Sys.Date()`"
+---
+
+## For Mac Users
+
+* Make sure R is up-to-date > 4.2
+* [Configural C++ Toolchain](https://github.com/stan-dev/rstan/wiki/Configuring-C---Toolchain-for-Mac)
+  * Set up the C++ Toolchain using the [macOS R toolchain installer](https://github.com/coatless-mac/r-macos-rtools#how-do-i-use-the-installer)
+  * To improve estimation speed, you can copy the following syntax to the R console
+  
+```{r}
+#| eval: false
+dotR <- file.path(Sys.getenv("HOME"), ".R")
+if (!file.exists(dotR)) dir.create(dotR)
+M <- file.path(dotR, "Makevars")
+if (!file.exists(M)) file.create(M)
+arch <- ifelse(R.version$arch == "aarch64", "arm64", "x86_64")
+cat(paste("\nCXX14FLAGS += -O3 -mtune=native -arch", arch, "-ftemplate-depth-256"),
+    file = M, sep = "\n", append = FALSE)
+```
+
+* To install `rstan`, in the R console
+  a. Remove all old `rstan` files, if they exist
+
+```{r}
+#| eval: false
+remove.packages("rstan")
+if (file.exists(".RData")) file.remove(".RData")
+```
+
+  b. Restart R
+  c. Install `StanHeaders` and `rstan`
+  
+```{r}
+#| eval: false
+install.packages("StanHeaders", repos = c("https://mc-stan.org/r-packages/", getOption("repos")))
+install.packages("rstan", repos = c("https://mc-stan.org/r-packages/", getOption("repos")))
+```
+
+* Verify installation ([details](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started))
+
+```{r}
+#| eval: false
+remove.packages("rstan")
+if (file.exists(".RData")) file.remove(".RData")
+
+install.packages("StanHeaders", repos = c("https://mc-stan.org/r-packages/", getOption("repos")))
+install.packages("rstan", repos = c("https://mc-stan.org/r-packages/", getOption("repos")))
+```
+
+* Install brms ([details](https://learnb4ss.github.io/learnB4SS/articles/install-brms.html))
+
+```{r}
+#| eval: false
+install.packages("brms")
+```
+
+You're all set!
+
+
+## For Windows Users
+
+* Make sure R is up-to-date > 4.2
+* [Configural C++ Toolchain](https://github.com/stan-dev/rstan/wiki/Configuring-C---Toolchain-for-Windows) (follow steps for R 4.2)
+  * Install RTools42 ([details](https://cran.r-project.org/bin/windows/Rtools/rtools42/rtools.html); [installer](https://cran.r-project.org/bin/windows/Rtools/rtools42/files/rtools42-5355-5357.exe))
+* To install `rstan`, in the R console
+  a. Remove all old `rstan` files, if they exist
+
+```{r}
+#| eval: false
+remove.packages("rstan")
+if (file.exists(".RData")) file.remove(".RData")
+```
+
+  b. Restart R
+  c. Install `StanHeaders` and `rstan`
+  
+```{r}
+#| eval: false
+install.packages("StanHeaders", repos = c("https://mc-stan.org/r-packages/", getOption("repos")))
+install.packages("rstan", repos = c("https://mc-stan.org/r-packages/", getOption("repos")))
+```
+
+* Verify installation ([details](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started))
+
+```{r}
+#| eval: false
+remove.packages("rstan")
+if (file.exists(".RData")) file.remove(".RData")
+
+install.packages("StanHeaders", repos = c("https://mc-stan.org/r-packages/", getOption("repos")))
+install.packages("rstan", repos = c("https://mc-stan.org/r-packages/", getOption("repos")))
+```
+
+* Install brms ([details](https://learnb4ss.github.io/learnB4SS/articles/install-brms.html))
+
+```{r}
+#| eval: false
+install.packages("brms")
+```
+
+You're all set!
+

@@ -1,0 +1,16 @@
+---
+title: "Measurement Invariance Testing"
+subtitle: "USC GC-3 Workshop (Fall 2022)"
+---
+
+**Date: November 3, 2022**
+
+**Speaker: Yichi Zhang**
+
+### Abstract
+
+For psychological research, it is important to validate the assumption that the observed group differences are due to the true group differences in latent constructs instead of the bias inherent in the scale/survey items. In order to conclude that the observed group differences are due to the latent construct, the scale should measure the same construct equivalently for each group, which is the concept of measurement invariance (MI). In this event, we will cover the basics of measurement invariance testing followed by an illustrative example using the R package *lavaan*.
+
+<iframe width="80%" height="900"
+src="flyers/GC3 Measurement Invaraince.pdf"></iframe>
+

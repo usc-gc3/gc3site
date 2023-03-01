@@ -1,9 +1,59 @@
 ---
-title: "About"
+title: "Resources"
 ---
 
-About this site
+### Common Statistical Analyses
 
-```{r}
-1 + 1
-```
+-   [Statistical analyses using SPSS](https://stats.oarc.ucla.edu/spss/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-spss/)
+
+### Power Analysis
+
+-   [G-Power Manual](https://www.psychologie.hhu.de/fileadmin/redaktion/Fakultaeten/Mathematisch-Naturwissenschaftliche_Fakultaet/Psychologie/AAP/gpower/GPowerManual.pdf)
+
+-   [Bias and Uncertainty Corrected Sample Size (BUCSS) R Pacakge](https://cran.r-project.org/web/packages/BUCSS/BUCSS.pdf)
+
+### Multilevel Modeling
+
+-   [PSYC 575 Multilevel Modeling Course Website](https://psyc575-2022fall.netlify.app/)
+
+-   [Multilevel Composite Reliability](https://quantscience.rbind.io/2022/11/13/multilevel-composite-reliability/)
+
+### Bayesian Analysis
+
+-   [PSYC 573 Bayesian Analysis Course Website](https://psyc573-2022spring.netlify.app/)
+
+-   [Statistical Rethinking Course Website](https://github.com/rmcelreath/stat_rethinking_2023)
+
+-   [Bayesian Multilevel Modeling With Group Mean Centering](https://quantscience.rbind.io/2020/02/04/bayesian-mlm-with-group-mean-centering/)
+
+-   [How to Install `rstan` and `brms`](others/install_rstan.html)
+
+### Missing Data
+
+-   [Online Book: Flexible Imputation of Missing Data by Stef van Buuren](https://stefvanbuuren.name/fimd/)
+
+-   [Applied Missing Data Analysis by Craig K. Enders](https://web-p-ebscohost-com.libproxy1.usc.edu/ehost/ebookviewer/ebook?sid=d7e3d851-092c-4d00-842e-54727a635d2c%40redis&vid=0&format=EB)
+
+-   [Using FIML in R for Multilevel data](https://francish.net/post/accounting-for-missing-data-mlm/)
+
+### R
+
+-   [R for Data Science](https://r4ds.had.co.nz/)
+
+-   [Advanced R by Hadley Wickham](https://adv-r.hadley.nz/)
+
+-   [An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani](https://link-springer-com.libproxy1.usc.edu/book/10.1007/978-1-4614-7138-7)
+
+### Mplus
+
+-   [Mplu Workshop on Structural Equation Modeling (SEM), Multilevel Modeling, and Multilevel SEM](https://melbourne.figshare.com/articles/media/Mplus_Workshop_at_The_University_of_Melbourne_February_4-8_2019_5_Days_/7797620)
+
+### High Performance Computing at USC
+
+-   [Introduction to CARC Systems](https://www.carc.usc.edu/user-information/intro-to-carc)
+
+-   [Workshops from Advanced Research Computing](https://www.carc.usc.edu/education-and-resources/video-learning)
+
+### Monte Carlo Simulation
+
+-   [Online workshop: Advancing Quantitative Sciences With Monte Carlo Simulation](https://quantscience.rbind.io/courses/montecarlo/)

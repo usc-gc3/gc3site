@@ -1,0 +1,23 @@
+---
+title: "From Scratch to Deployment: Making Your Personal Website With R"
+subtitle: "USC GC-3 Workshop (Spring 2023)"
+---
+
+**Date: March 2, 2023**
+
+**Speaker: Winnie Wing-Yee Tse**
+
+### Abstract
+
+Do you want an easy-to-maintain personal website while showcasing your R skills? We are going to hold a workshop on creating personal websites using R Quarto! Quarto is a next-generation version of R Markdown and provides a quick and convenient way to publish documents. In an hour, we will make sure you will have a well-constructed skeleton of your site and deploy it on Quarto Pub before you step out of the GC-3 Center. 
+
+**Recommended preparation before the workshop**
+
+* Install/update R Studio: [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
+* Install Quarto: [https://quarto.org/docs/get-started/](https://quarto.org/docs/get-started/)
+* Sign up for a Quarto Pub account: [https://quartopub.com/](https://quartopub.com/)
+
+![](flyers/GC3 Workshop Web Creation.png){width="80%"}
+<!-- <iframe width="80%" height="900" -->
+<!-- src="flyers/GC3 Workshop Web Creation.png"></iframe> -->
+
