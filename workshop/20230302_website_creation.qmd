@@ -7,6 +7,8 @@ subtitle: "USC GC-3 Workshop (Spring 2023)"
 
 **Speaker: Winnie Wing-Yee Tse**
 
+[**Video Recording**](https://usc.zoom.us/rec/play/xVcr_eCyhoIu0ccTGqz98GcLA9ZxDNRiSAtGzSeyvb1q8x_cEGjOUNlmOykrwyZFgc9Y8cEdVTCuTRQ7.Go4aknp4--yqNVJD?startTime=1677787309000) (requires sign in using your USC NetID)
+
 ### Abstract
 
 Do you want an easy-to-maintain personal website while showcasing your R skills? We are going to hold a workshop on creating personal websites using R Quarto! Quarto is a next-generation version of R Markdown and provides a quick and convenient way to publish documents. In an hour, we will make sure you will have a well-constructed skeleton of your site and deploy it on Quarto Pub before you step out of the GC-3 Center. 

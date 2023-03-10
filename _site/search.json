@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome to McArdle GC-3 Center!",
     "section": "",
-    "text": "The aim of the John J. McArdle Graduate Consultation and Computer Center (GC3)  is to provides free statistical consultation to progressive masters students, doctoral students and faculty in the USC Psychology Department. The center provides support for students working on research projects, including but not limited to: poster presentations, symposia, journal articles, theses, and dissertations. The center is equipped with computers, as well as a variety of statistical programs for students and faculty to use with or without the assistance of the GC3 consultants. The center also provides workspace for those to bring their own computers and work on projects, individually or as small teams."
+    "text": "The aim of the John J. McArdle Graduate Consultation and Computer Center (GC3) is to provide free statistical consultation to progressive masters students, doctoral students and faculty in the USC Psychology Department. The center provides support for students working on research projects, including but not limited to: poster presentations, symposia, journal articles, theses, and dissertations. The center is equipped with computers, as well as a variety of statistical programs for students and faculty to use with or without the assistance of the GC3 consultants. The center also provides workspace for those to bring their own computers and work on projects, individually or as small teams."
   },
   {
     "objectID": "index.html#walkin-hours-appointments",
@@ -18,7 +18,7 @@
     "href": "index.html#quantitative-speaker-series",
     "title": "Welcome to McArdle GC-3 Center!",
     "section": "Quantitative Speaker Series",
-    "text": "Quantitative Speaker Series\nIn addition to being a resource for one-on-one statistical consultation, the GC3 has hosted a number of quantitative talks on a wide variety of statistical topics, many of which have been recorded and posted on the web. Please click here more information about lectures given in the GC3."
+    "text": "Quantitative Speaker Series\nIn addition to being a resource for one-on-one statistical consultation, the Department of Psychology has hosted a number of quantitative talks on a wide variety of statistical topics, some of which have been recorded. Please find the recordings and more information about the talks here."
   },
   {
     "objectID": "index.html#training-sessions-workshops",
@@ -39,7 +39,14 @@
     "href": "quant_talks.html",
     "title": "Quantitative Speaker Series",
     "section": "",
-    "text": "Date\nTopic\nSpeaker\n\n\n\n\nNov 17, 2022\nSome development and applications of longitudinal data analysis methods in psychology research\nPeggy Wang"
+    "text": "Date\nTopic\nSpeaker\n\n\n\n\nMar 9, 2023\nEstimating the Standardized Average Treatment Effect with Missing Outcome Data\nSamantha Anderson\n\n\nFeb 16, 2023\nTo what extent is there really a replication (and reproduction) crisis?\nStephen West"
+  },
+  {
+    "objectID": "quant_talks.html#fall-2022",
+    "href": "quant_talks.html#fall-2022",
+    "title": "Quantitative Speaker Series",
+    "section": "Fall 2022",
+    "text": "Fall 2022\n\n\n\nDate\nTopic\nSpeaker\n\n\n\n\nNov 17, 2022\nSome development and applications of longitudinal data analysis methods in psychology research\nPeggy Wang"
   },
   {
     "objectID": "quant_talks.html#spring-2022",
@@ -75,6 +82,13 @@
     "title": "Applications of Data-Driven Methods for Studying Dynamic, Person-Specific processes",
     "section": "",
     "text": "Date: October 19, 2021\nSpeaker: Kathleen Gates, Ph.D.\nAssociate Professor\nThe University of North Carolina at Chapel Hill\nVideo Recording (requires sign in using your USC NetID)\n\nAbstract\nThe use of time series data in psychological and neural research is on the rise. This increase largely can be attributed to greater ease in gathering numerous observations per person via the use of smart phones, automated behavioral coding, wearable technologies, and psychophysiological data. Often the end goal is to arrive at a better understanding of individuals’ processes. From these individual-level findings, we can get closer to personalized interventions as well as obtain insights into meaningful similarities across individuals and aspects of human processes that may generalize to the population. Arriving at personalized dynamic models often requires the use and adaptation of machine learning methods such as unsupervised classification, feature selection, and model-building. This talk focuses on the application of such methods on a few data sets collected across various domains of psychological inquiry including self-report data and functional MRI.\n\n\nBio\nDr. Kathleen Gates is an associate professor of Quantitative Psychology in the Department of Psychology at the University of North Carolina at Chapel Hill. She is a member of the Human Neuroimaging Group and affiliated faculty of the UNC Biomedical Research Imaging Center (BRIC). She obtained her Ph.D. in the Department of Human Development and Family Studies (quant focus) at Penn State, a Masters of Forensic Psychology at the City University of New York (John Jay College), and a BS in Psychology from Michigan State University. Dr.’s work is motivated by problems in analyzing individual-level data. She develops algorithms and programs that may aid researchers in better quantifying behavioral, psychophysiological, and emotional processes across time. She is a co-inventor of GIMME, an algorithm for finding mathematical models of psychophysiological processes across time. The end goal is to help researchers identify patterns within individuals so we can provide person-specific prevention, treatment, and intervention protocols as well as better understand the varied basic physiological underpinnings for emotions, cognition, and behaviors."
+  },
+  {
+    "objectID": "quant_talks/20230309_samantha_anderson.html",
+    "href": "quant_talks/20230309_samantha_anderson.html",
+    "title": "Estimating the Standardized Average Treatment Effect with Missing Outcome Data",
+    "section": "",
+    "text": "Date: March 9, 2023\nSpeaker: Samantha Anderson, Ph.D.\nAssistant Professor\nDepartment of Psychology - Quantitative\nArizona State University\nVideo Recording (requires sign in using your USC NetID)\n\nAbstract\nIn this talk, I will present research assessing estimation of the standardized average treatment effect (sATE) in randomized pretest posttest studies when outcome data are missing. Standardized effects are increasingly reported in treatment studies, to facilitate interpretation, future meta-analysis, and study comparison. However, when outcome data are missing, achieving an unbiased, accurate estimate of the sATE can be challenging, given that the sATE is a ratio of a (sometimes adjusted) mean difference to a (within-group) standard deviation. The simulation study I will describe compares missing data strategies, specifications, and modeling choices in terms of bias and accuracy. Populations with homogeneous and heterogeneous variances are considered, as well as multiple different missingness patterns relevant to these types of studies. The results show that although the sATE can be estimated with little bias using either maximum likelihood or multiple imputation, particular attention should be paid to the model and variance estimator, especially at smaller sample sizes. In addition to presenting simulation results, I will include demonstration of how and why certain choices lead to bias when estimating the sATE."
   },
   {
     "objectID": "quant_talks/20220322_jessica_flake.html",
@@ -119,11 +133,18 @@
     "text": "Date: May 3, 2022\nSpeaker: Zhiyong (Johnny) Zhang, Ph.D.\nProfessor\nDepartment of Psychology\nUniversity of Notre Dame\nVideo Recording (requires sign in using your USC NetID)\n\nAbstract\nResearchers have repeatedly pointed out that normal data are like fantasies and have been rarely observed in social science research. However, most statistical methods have been developed for complete and normal data. In this talk, I will first review the prevalence of non-normal data in social science research and discuss their influences on statistical data analysis. Then, I will present methods we have developed to handle non-normal data in both the frequentist and Bayesian frameworks. I will argue that non-normal data offer unique opportunities to both methodologists and substantive researchers.\n\n\nBio\nZhiyong (Johnny) Zhang received his Ph.D. in quantitative psychology from the University of Virginia in 2008. He is now a professor in the Department of Psychology at the University of Notre Dame. His research focuses on developing new methods and software for practical data analysis in psychology, education, and health research. His most recent research focuses on social network analysis and text mining. He is an elected member of the Society of Multivariate Experimental Psychology and a fellow of American Psychological Association. He is the Editor of the Journal of Behavioral Data Science, and an Associate Editor of Multivariate Behavioral Research and Neurocomputing. More information about him can be found on his website https://bigdatalab.nd.edu."
   },
   {
+    "objectID": "quant_talks/20230216_stephen_west.html",
+    "href": "quant_talks/20230216_stephen_west.html",
+    "title": "To what extent is there really a replication (and reproduction) crisis?",
+    "section": "",
+    "text": "Date: March 9, 2023\nSpeaker: Stephen G. West, Ph.D.\nProfessor\nDepartment of Psychology\nArizona State University\nFreie Universität Berlin\n\nAbstract\nThe replication crisis has been a source of considerable concern in psychology and other sciences over the past decade. This presentation provides a methodological, philosophical, and statistical view of the replication crisis. After a brief overview, I consider recent work on three related reasons for replication failure: (1) poor methodological technique and heterogeneity of effects, (2) insufficient statistical power, and (3) reproducibility issues including undisclosed researcher degrees of freedom in reporting and “the garden of forking paths” in statistical analysis. I also consider some new developments and several proposed solutions that may mitigate problems in replicating previous studies. New methods of statistical power analysis capture the uncertainty of effect size estimates and provide more realistic estimates of required sample size. Methods related to meta-analysis that do not treat the original study as a privileged gold standard offer better information about the statistical significance, average effect size, and variability of effect size of a series of replication studies. The extensive resources devoted to the replication crisis, which only addresses the association between two variables, may have diverted attention from other equally important forms of validity in research."
+  },
+  {
     "objectID": "workshop.html",
     "href": "workshop.html",
     "title": "GC-3 Workshops",
     "section": "",
-    "text": "Date\nTopic\nSpeaker\nDownload Materials\n\n\n\n\nMar 2, 2023\nFrom Scratch to Deployment: Making Your Personal Website With R\nWinnie Wing-Yee Tse\ngoogle drive"
+    "text": "Date\nTopic\nSpeaker\nDownload Materials\n\n\n\n\nMar 2, 2023\nFrom Scratch to Deployment: Making Your Personal Website With R (Recording)\nWinnie Wing-Yee Tse\ngoogle drive"
   },
   {
     "objectID": "workshop.html#fall-2022",
@@ -151,14 +172,14 @@
     "href": "workshop/20220908_poster.html",
     "title": "Making Poster with R / Kick-Off Event",
     "section": "",
-    "text": "Date: September 8, 2022\nSpeaker: Jimmy Zhang\n\nAbstracts\nIn this event, we will demonstrate how to use Rmarkdown to make conference posters step-by-step."
+    "text": "Date: September 8, 2022\nSpeaker: Jimmy Zhang\nVideo Recording (requires sign in using your USC NetID)\n\nAbstracts\nIn this event, we will demonstrate how to use Rmarkdown to make conference posters step-by-step."
   },
   {
     "objectID": "workshop/20230302_website_creation.html",
     "href": "workshop/20230302_website_creation.html",
     "title": "From Scratch to Deployment: Making Your Personal Website With R",
     "section": "",
-    "text": "Date: March 2, 2023\nSpeaker: Winnie Wing-Yee Tse\n\nAbstract\nDo you want an easy-to-maintain personal website while showcasing your R skills? We are going to hold a workshop on creating personal websites using R Quarto! Quarto is a next-generation version of R Markdown and provides a quick and convenient way to publish documents. In an hour, we will make sure you will have a well-constructed skeleton of your site and deploy it on Quarto Pub before you step out of the GC-3 Center.\nRecommended preparation before the workshop\n\nInstall/update R Studio: https://posit.co/download/rstudio-desktop/\nInstall Quarto: https://quarto.org/docs/get-started/\nSign up for a Quarto Pub account: https://quartopub.com/"
+    "text": "Date: March 2, 2023\nSpeaker: Winnie Wing-Yee Tse\nVideo Recording (requires sign in using your USC NetID)\n\nAbstract\nDo you want an easy-to-maintain personal website while showcasing your R skills? We are going to hold a workshop on creating personal websites using R Quarto! Quarto is a next-generation version of R Markdown and provides a quick and convenient way to publish documents. In an hour, we will make sure you will have a well-constructed skeleton of your site and deploy it on Quarto Pub before you step out of the GC-3 Center.\nRecommended preparation before the workshop\n\nInstall/update R Studio: https://posit.co/download/rstudio-desktop/\nInstall Quarto: https://quarto.org/docs/get-started/\nSign up for a Quarto Pub account: https://quartopub.com/"
   },
   {
     "objectID": "workshop/20221006_SEM.html",

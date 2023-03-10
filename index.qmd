@@ -21,7 +21,7 @@ Please note that appointments are currently available only to members of the USC
 
 ## Quantitative Speaker Series
 
-In addition to being a resource for one-on-one statistical consultation, the GC3 has hosted a number of quantitative talks on a wide variety of statistical topics, many of which have been recorded and posted on the web. Please [click here](quant_talks.html) more information about lectures given in the GC3.
+In addition to being a resource for one-on-one statistical consultation, the Department of Psychology has hosted a number of quantitative talks on a wide variety of statistical topics, some of which have been recorded. Please find the recordings and more information about the talks [here](quant_talks.html).
 
 ## Training Sessions/ Workshops
 

@@ -1,0 +1,30 @@
+---
+title: "Estimating the Standardized Average Treatment Effect with Missing Outcome Data"
+subtitle: "USC Quantitative Speaker Series (Spring 2023)"
+---
+
+**Date: March 9, 2023**
+
+**Speaker: Samantha Anderson, Ph.D.**
+
+Assistant Professor\
+Department of Psychology - Quantitative\
+Arizona State University
+
+[**Video Recording**](https://usc.zoom.us/rec/share/AYUVla5i-gIazuhmx6wKQn7QusaVUphxrrPMu_qdMUPpOQu82lxT13OsLPWy4zFZ.CMLCDErNKvH5wsQB) (requires sign in using your USC NetID)
+
+### Abstract
+
+In this talk, I will present research assessing estimation of the standardized average treatment
+effect (sATE) in randomized pretest posttest studies when outcome data are missing.
+Standardized effects are increasingly reported in treatment studies, to facilitate interpretation,
+future meta-analysis, and study comparison. However, when outcome data are missing, achieving
+an unbiased, accurate estimate of the sATE can be challenging, given that the sATE is a ratio of a
+(sometimes adjusted) mean difference to a (within-group) standard deviation. The simulation
+study I will describe compares missing data strategies, specifications, and modeling choices in
+terms of bias and accuracy. Populations with homogeneous and heterogeneous variances are
+considered, as well as multiple different missingness patterns relevant to these types of studies.
+The results show that although the sATE can be estimated with little bias using either maximum
+likelihood or multiple imputation, particular attention should be paid to the model and variance
+estimator, especially at smaller sample sizes. In addition to presenting simulation results, I will
+include demonstration of how and why certain choices lead to bias when estimating the sATE.
