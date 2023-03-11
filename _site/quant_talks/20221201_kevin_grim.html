@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>USC McArdle GC-3 Center - Quantitative Speaker Series</title>
+<title>USC McArdle GC-3 Center - Measurement Invariance Testing in Item Factor Analysis</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,22 +23,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -60,7 +60,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -70,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">USC McArdle GC-3 Center</span>
     </a>
   </div>
@@ -80,19 +80,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="../index.html">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./quant_talks.html" aria-current="page">
+    <a class="nav-link" href="../quant_talks.html">
  <span class="menu-text">Quant Speaker Series</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./workshop.html">
+    <a class="nav-link" href="../workshop.html">
  <span class="menu-text">Workshop</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resources.html">
+    <a class="nav-link" href="../resources.html">
  <span class="menu-text">Resources</span></a>
   </li>  
 </ul>
@@ -110,11 +110,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#spring-2023" id="toc-spring-2023" class="nav-link active" data-scroll-target="#spring-2023">Spring 2023</a></li>
-  <li><a href="#fall-2022" id="toc-fall-2022" class="nav-link" data-scroll-target="#fall-2022">Fall 2022</a></li>
-  <li><a href="#spring-2022" id="toc-spring-2022" class="nav-link" data-scroll-target="#spring-2022">Spring 2022</a></li>
-  <li><a href="#fall-2021" id="toc-fall-2021" class="nav-link" data-scroll-target="#fall-2021">Fall 2021</a></li>
-  <li><a href="#spring-2021" id="toc-spring-2021" class="nav-link" data-scroll-target="#spring-2021">Spring 2021</a></li>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a></li>
+  <li><a href="#bio" id="toc-bio" class="nav-link" data-scroll-target="#bio">Bio</a></li>
   </ul>
 </nav>
     </div>
@@ -123,7 +120,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Quantitative Speaker Series</h1>
+<h1 class="title">Measurement Invariance Testing in Item Factor Analysis</h1>
+<p class="subtitle lead">USC Quantitative Speaker Series (Fall 2022)</p>
 </div>
 
 
@@ -138,146 +136,18 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="spring-2023" class="level2">
-<h2 class="anchored" data-anchor-id="spring-2023">Spring 2023</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Topic</th>
-<th>Speaker</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Mar 9</td>
-<td><a href="quant_talks/20230309_samantha_anderson.html">Estimating the Standardized Average Treatment Effect with Missing Outcome Data</a></td>
-<td>Samantha Anderson</td>
-</tr>
-<tr class="even">
-<td>Feb 16</td>
-<td><a href="quant_talks/20230216_stephen_west.html">To what extent is there really a replication (and reproduction) crisis?</a></td>
-<td>Stephen West</td>
-</tr>
-</tbody>
-</table>
+<p><strong>Date: December 1, 2022</strong></p>
+<p><strong>Speaker: Kevin J. Grimm, Ph.D.</strong></p>
+<p>Professor<br>
+Department of Psychology<br>
+Arizona State University</p>
+<section id="abstract" class="level3">
+<h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
+<p>Item factor analysis models can be estimated using a marginal maximum likelihood (MML) estimator or a weighted least squares (WLS) estimator. The MML estimator is a full information estimator, whereas the WLS estimator is a limited-information estimator based on first and second-order moments. In single group item factor analysis, the choice of estimator is often a matter of convenience even though each estimator has benefits and limitations. However, in multiple group item factor analyses, there are parameter and specification differences as unique factor variances can be estimated under certain conditions using WLS estimators. Thus, when examining measurement invariance with WLS, researchers can study the invariance of the factor loadings, thresholds, and unique variances following the work of Millsap (2012). This is not the case when using MML because the unique variances are assumed to be equal across groups (or time), which places the focus on the factor loadings and the thresholds. Importantly, a lack of invariance in the unique variances over groups (and time) can masquerade as a lack of threshold invariance when using the MML estimator, which affects researchers’ ability to compare latent variable scores over groups (and time). This issue and the importance of this distinction is illustrated using simulated and empirical data.</p>
 </section>
-<section id="fall-2022" class="level2">
-<h2 class="anchored" data-anchor-id="fall-2022">Fall 2022</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Topic</th>
-<th>Speaker</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Dec 1</td>
-<td><a href="quant_talks/20221201_kevin_grim.html">Measurement Invariance Testing in Item Factor Analysis</a></td>
-<td>Kevin Grimm</td>
-</tr>
-<tr class="even">
-<td>Nov 17</td>
-<td><a href="quant_talks/20221117_peggy_wang.html">Some development and applications of longitudinal data analysis methods in psychology research</a></td>
-<td>Peggy Wang</td>
-</tr>
-<tr class="odd">
-<td>Sep 22</td>
-<td><a href="quant_talks/20220922_sarfaraz_serang.html">Jack McArdle’s Influence on Me and My Work</a></td>
-<td>Sarfaraz Serang</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="spring-2022" class="level2">
-<h2 class="anchored" data-anchor-id="spring-2022">Spring 2022</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Topic</th>
-<th>Speaker</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>May 3</td>
-<td><a href="quant_talks/20220503_johnny_zhang.html">Prevalence, Influences, and Handling Methods of Non-normal Data</a></td>
-<td>Johnny Zhang</td>
-</tr>
-<tr class="even">
-<td>Apr 19</td>
-<td><a href="quant_talks/20220419_linda_collins.html">Engineering an intervention to achieve <em>EASE</em>: The multiphase optimization strategy (MOST)</a></td>
-<td>Linda Collins</td>
-</tr>
-<tr class="odd">
-<td>Mar 22</td>
-<td><a href="quant_talks/20220322_jessica_flake.html">Measurement Practices, Metascience, and the Methodological Reform Movement</a></td>
-<td>Jessica Flake</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="fall-2021" class="level2">
-<h2 class="anchored" data-anchor-id="fall-2021">Fall 2021</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Topic</th>
-<th>Speaker</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Nov 16</td>
-<td><a href="quant_talks/20211116_jolynn_pek.html">A Discussion on The Uses of Power</a></td>
-<td>Jolynn Pek</td>
-</tr>
-<tr class="even">
-<td>Oct 19</td>
-<td><a href="quant_talks/20211019_katie_gates.html">Applications of Data-Driven Methods for Studying Dynamic, Person-Specific processes</a></td>
-<td>Kathleen Gates</td>
-</tr>
-<tr class="odd">
-<td>Oct 5</td>
-<td><a href="quant_talks/20211005_hudson_golino.html">On networks and online Russian trolls:<br>
-How can the total entropy ﬁt index be applied to optimize the number of embedded dimensions used in dynamic exploratory graph analysis, and why does it matter?</a></td>
-<td>Hudson Golino</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="spring-2021" class="level2">
-<h2 class="anchored" data-anchor-id="spring-2021">Spring 2021</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Topic</th>
-<th>Speaker</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Apr 27</td>
-<td><a href="quant_talks/20210427_chris_beam.html">Similar Predictions from Different Models: Exploring the Space of Model Similarity</a></td>
-<td>Christopher Beam</td>
-</tr>
-<tr class="even">
-<td>Mar 30</td>
-<td><a href="quant_talks/20210330_nayena_blankson.html">Cognition and Achievement: Isn’t it about time we cancelled IQ?</a></td>
-<td>Nayena Blankson</td>
-</tr>
-<tr class="odd">
-<td>Mar 2</td>
-<td><a href="quant_talks/20210302_ed_merkle.html">Recent Progress on Bayesian Structural Equation Models</a></td>
-<td>Ed Merkle</td>
-</tr>
-</tbody>
-</table>
+<section id="bio" class="level3">
+<h3 class="anchored" data-anchor-id="bio">Bio</h3>
+<p>Kevin Grimm is a Professor in the Department of Psychology at Arizona State University. His research interests include multivariate methods for the analysis of change, multiple group and latent class models for understanding divergent developmental processes, nonlinearity in development, machine learning techniques for psychological data, and cognitive/achievement development. He is an author of the book Growth Modeling: Structural Equation and Multilevel Modeling Approaches (with Nilam Ram and Ryne Estabrook). He also teaches workshops on longitudinal and intensive longitudinal research sponsored by the American Psychological Association’s Advanced Training Institute.</p>
 
 
 </section>

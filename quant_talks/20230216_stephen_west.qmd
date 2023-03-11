@@ -3,7 +3,7 @@ title: "To what extent is there really a replication (and reproduction) crisis?"
 subtitle: "USC Quantitative Speaker Series (Spring 2023)"
 ---
 
-**Date: March 9, 2023**
+**Date: February 9, 2023**
 
 **Speaker: Stephen G. West, Ph.D.**
 
@@ -14,5 +14,4 @@ Freie Universität Berlin
 
 ### Abstract
 
-The replication crisis has been a source of considerable concern in psychology and other sciences over the past decade. This presentation provides a methodological, philosophical, and statistical view of the replication crisis. After a brief overview, I consider recent work on three related reasons for replication failure: (1) poor methodological technique and heterogeneity of effects, (2) insufficient statistical power, and (3) reproducibility issues including undisclosed researcher degrees of freedom in reporting and “the garden of forking paths” in statistical analysis. I also consider some new developments and several proposed solutions that may mitigate problems in replicating previous studies.  New methods of statistical power analysis capture the uncertainty of effect size estimates and provide more realistic estimates of required sample size.  Methods related to meta-analysis that do not treat the original study as a privileged gold standard offer better information about the statistical significance, average effect size, and variability of effect size of a series of replication studies.  The extensive resources devoted to the replication crisis, which only addresses the association between two variables, may have diverted attention from other equally important forms of validity in research.
-
+The replication crisis has been a source of considerable concern in psychology and other sciences over the past decade. This presentation provides a methodological, philosophical, and statistical view of the replication crisis. After a brief overview, I consider recent work on three related reasons for replication failure: (1) poor methodological technique and heterogeneity of effects, (2) insufficient statistical power, and (3) reproducibility issues including undisclosed researcher degrees of freedom in reporting and "the garden of forking paths" in statistical analysis. I also consider some new developments and several proposed solutions that may mitigate problems in replicating previous studies. New methods of statistical power analysis capture the uncertainty of effect size estimates and provide more realistic estimates of required sample size. Methods related to meta-analysis that do not treat the original study as a privileged gold standard offer better information about the statistical significance, average effect size, and variability of effect size of a series of replication studies. The extensive resources devoted to the replication crisis, which only addresses the association between two variables, may have diverted attention from other equally important forms of validity in research.

@@ -1,0 +1,20 @@
+---
+title: "Jack McArdle's Influence on Me and My Work"
+subtitle: "USC Quantitative Speaker Series (Fall 2022)"
+---
+
+**Date: September 22, 2022**
+
+**Speaker: Sarfaraz Serang, Ph.D.**
+
+Assistant Professor\
+Department of Psychology\
+University of South Carolina
+
+### Abstract
+
+Jack McArdle was an exceptional person and scholar. In this talk, I'll discuss his influence on me and work I've done inspired by conversations with him. Specifically, I plan to talk about the latent growth curve and latent change score models, two of Jack's most influential contributions to the longitudinal structural equation modeling literature. I also plan to discuss structural equation model trees, a prime example of his later work on data mining. In both cases, I will share how I've tried to expand on his ideas in an effort to carry on his legacy.
+
+### Bio
+
+Sarfaraz Serang is an Assistant Professor in the Psychology Department at the University of South Carolina, specifically within the Quantitative Psychology program. He received my Ph.D. in (quantitative) psychology from the University of Southern California, where he worked with Jack McArdle and Rand Wilcox. His research program involves developing and evaluating statistical methods for use in the social sciences. His methodological interests include structural equation modeling, longitudinal modeling, statistical learning (data mining/machine learning), and combinations of the three. He collaborates with researchers from a wide range of disciplines to answer all kinds of interesting research questions. For example, he has studied family dynamics in substance use, cognitive ability and how it changes over time, and suicide risk and nonsuicidal self-injury, just to name a few.

@@ -1,0 +1,21 @@
+---
+title: "Recent Progress on Bayesian Structural Equation Models"
+subtitle: "USC Quantitative Speaker Series (Spring 2021)"
+---
+
+**Date: March 2, 2021**
+
+**Speaker: Ed Merkle, Ph.D.**
+
+Professor\
+University of Missouri\
+Department of Psychology Science
+
+### Abstract
+
+The talk will be about research and developments surrounding the R package blavaan. Specific topics include strategies for speeding up model estimation, methods for computing model information criteria, and extensions to complex models. I will try to discuss the research in the context of open science and reproducibility, which has been a theme of the software development. I will also provide some demonstrations along the way to illustrate the functionality of blavaan.
+
+### Bio
+
+Dr. Ed Merkle is a Professor of Quantitative Psychology at University of Missouri. His research involves a mix of psychometric modeling and the experimentation/modeling that arises from cognitive science and mathematical psychology, with specific interests including Bayesian latent variable models, forecasting and subjective probability, and test/item bias and fairness. He is the creator of the R package blavaan, which provides researchers with an open, flexible, accessible set of tools for estimating Bayesian structural equation models. His research is partially supported by National Science Foundation.
+

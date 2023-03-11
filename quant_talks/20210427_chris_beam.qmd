@@ -1,0 +1,20 @@
+---
+title: "Similar Predictions from Different Models: Exploring the Space of Model Similarity"
+subtitle: "USC Quantitative Speaker Series (Spring 2021)"
+---
+
+**Date: April 27, 2021**
+
+**Speaker: Christopher R. Beam, Ph.D.**
+
+Assistant Professor of Psychology and Gerontology\
+University of Southern California
+
+### Abstract
+
+Behavioral scientists are often faced with a large, potentially daunting list of possible models that may be applied to any given data set.  While in the best case, the specific model is chosen based solely on an intricate and well-defined theory about the process being modeled, this is not always the case. Instead, scientists frequently fall back on one of a small subset of models with which they are familiar and consider these models sufficient to test the question of interest. We demonstrate that different developmental models - all designed to identify or describe some developmental process - can be fit to the same observed data and provide adequate model fit. Longitudinal data are simulated according to three developmental processes: a linear growth trajectory, an autoregressive process, and a damped linear oscillator. Regardless of the process that generated the data, adequate model fit can be found by misfitted models. Study results eventually will serve as the basis for the development of a new tool in the OpenMx software package that provides applied developmental researchers with a suite of developmental models to contrast and compare. The ultimate goal of this project is to assist behavioral researchers in capturing actual development processes in their populations of interest rather than merely relying on model fit indices as the basis for concluding that development occurs along one trajectory or another.
+
+### Bio
+
+Dr. Beam is an Assistant Professor of Psychology and Gerontology in the Department of Psychology in the USC Dornsife College of Letters, Arts and Sciences and the USC Leonard Davis School of Gerontology. He completed his doctoral training at the University of Virginia (2008-2015) and clinical internship at the University of Washington School of Medicine (2014-2015). Chris specializes in lifespan development and quantitative methods, especially longitudinal modeling. His current research interests are numerous, ranging from cognitive development and aging, late-life loneliness and depressive symptomatology, bereavement, and Alzheimer's disease and related dementias. A central goal of his research is to understand the proximal and distal processes that allow people to maximize their genetic potential for healthy outcomes (e.g., cognition) while minimizing potential for negative outcomes (e.g., depression).
+

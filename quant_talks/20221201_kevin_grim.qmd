@@ -1,0 +1,20 @@
+---
+title: "Measurement Invariance Testing in Item Factor Analysis"
+subtitle: "USC Quantitative Speaker Series (Fall 2022)"
+---
+
+**Date: December 1, 2022**
+
+**Speaker: Kevin J. Grimm, Ph.D.**
+
+Professor\
+Department of Psychology\
+Arizona State University
+
+### Abstract
+
+Item factor analysis models can be estimated using a marginal maximum likelihood (MML) estimator or a weighted least squares (WLS) estimator. The MML estimator is a full information estimator, whereas the WLS estimator is a limited-information estimator based on first and second-order moments. In single group item factor analysis, the choice of estimator is often a matter of convenience even though each estimator has benefits and limitations. However, in multiple group item factor analyses, there are parameter and specification differences as unique factor variances can be estimated under certain conditions using WLS estimators. Thus, when examining measurement invariance with WLS, researchers can study the invariance of the factor loadings, thresholds, and unique variances following the work of Millsap (2012). This is not the case when using MML because the unique variances are assumed to be equal across groups (or time), which places the focus on the factor loadings and the thresholds. Importantly, a lack of invariance in the unique variances over groups (and time) can masquerade as a lack of threshold invariance when using the MML estimator, which affects researchers' ability to compare latent variable scores over groups (and time). This issue and the importance of this distinction is illustrated using simulated and empirical data.
+
+### Bio
+
+Kevin Grimm is a Professor in the Department of Psychology at Arizona State University. His research interests include multivariate methods for the analysis of change, multiple group and latent class models for understanding divergent developmental processes, nonlinearity in development, machine learning techniques for psychological data, and cognitive/achievement development. He is an author of the book Growth Modeling: Structural Equation and Multilevel Modeling Approaches (with Nilam Ram and Ryne Estabrook). He also teaches workshops on longitudinal and intensive longitudinal research sponsored by the American Psychological Association's Advanced Training Institute.
