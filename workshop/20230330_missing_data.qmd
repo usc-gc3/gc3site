@@ -1,0 +1,16 @@
+---
+title: "Dealing with Missing Data in R"
+subtitle: "USC GC-3 Workshop (Spring 2023)"
+---
+
+**Date: March 30, 2023**
+
+**Speaker: Yichi Zhang**
+
+<!-- [**Video Recording**](https://usc.zoom.us/rec/play/xVcr_eCyhoIu0ccTGqz98GcLA9ZxDNRiSAtGzSeyvb1q8x_cEGjOUNlmOykrwyZFgc9Y8cEdVTCuTRQ7.Go4aknp4--yqNVJD?startTime=1677787309000) (requires sign in using your USC NetID) -->
+
+### Abstract
+
+In this workshop, we will work on an applied dataset to illustrate how to assess missingness, visualize missingness, and handle missingness using multiple imputations in R.
+
+![](flyers/Dealing with missing data in R.png){width="80%"} 

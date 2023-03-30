@@ -172,14 +172,14 @@
     "href": "workshop.html",
     "title": "GC-3 Workshops",
     "section": "",
-    "text": "Date\nTopic\nSpeaker\nDownload Materials\n\n\n\n\nMar 2, 2023\nFrom Scratch to Deployment: Making Your Personal Website With R (Recording)\nWinnie Wing-Yee Tse\ngoogle drive"
+    "text": "Date\nTopic\nSpeaker\nDownload Materials\n\n\n\n\nMar 30\nDealing with Missing Data in R\nYichi Zhang\ngithub\ngoogle drive\n\n\nMar 2\nFrom Scratch to Deployment: Making Your Personal Website With R (Recording)\nWinnie Wing-Yee Tse\ngoogle drive"
   },
   {
     "objectID": "workshop.html#fall-2022",
     "href": "workshop.html#fall-2022",
     "title": "GC-3 Workshops",
     "section": "Fall 2022",
-    "text": "Fall 2022\n\n\n\nDate\nTopic\nSpeaker\nDownload Materials\n\n\n\n\nNov 3, 2022\nMeasurement Invariance Testing\nYichi Zhang\ngithub\ngoogle drive\n\n\nOct 20, 2022\nData Wrangling and Visualization in R\nWinnie Wing-Yee Tse\ngithub\ngoogle drive\n\n\nOct 6, 2022\nStructural Equation Modeling\nJimmy Zhang\n\n\n\nSep 8, 2022\nMaking Poster with R (Recording)\nJimmy Zhang"
+    "text": "Fall 2022\n\n\n\nDate\nTopic\nSpeaker\nDownload Materials\n\n\n\n\nNov 3\nMeasurement Invariance Testing\nYichi Zhang\ngithub\ngoogle drive\n\n\nOct 20\nData Wrangling and Visualization in R\nWinnie Wing-Yee Tse\ngithub\ngoogle drive\n\n\nOct 6\nStructural Equation Modeling\nJimmy Zhang\n\n\n\nSep 8\nMaking Poster with R (Recording)\nJimmy Zhang"
   },
   {
     "objectID": "workshop/20221020_data_wrangling.html",
@@ -208,6 +208,13 @@
     "title": "From Scratch to Deployment: Making Your Personal Website With R",
     "section": "",
     "text": "Date: March 2, 2023\nSpeaker: Winnie Wing-Yee Tse\nVideo Recording (requires sign in using your USC NetID)\n\nAbstract\nDo you want an easy-to-maintain personal website while showcasing your R skills? We are going to hold a workshop on creating personal websites using R Quarto! Quarto is a next-generation version of R Markdown and provides a quick and convenient way to publish documents. In an hour, we will make sure you will have a well-constructed skeleton of your site and deploy it on Quarto Pub before you step out of the GC-3 Center.\nRecommended preparation before the workshop\n\nInstall/update R Studio: https://posit.co/download/rstudio-desktop/\nInstall Quarto: https://quarto.org/docs/get-started/\nSign up for a Quarto Pub account: https://quartopub.com/"
+  },
+  {
+    "objectID": "workshop/20230330_missing_data.html",
+    "href": "workshop/20230330_missing_data.html",
+    "title": "Dealing with Missing Data in R",
+    "section": "",
+    "text": "Date: March 30, 2023\nSpeaker: Yichi Zhang\n\n\nAbstract\nIn this workshop, we will work on an applied dataset to illustrate how to assess missingness, visualize missingness, and handle missingness using multiple imputations in R."
   },
   {
     "objectID": "workshop/20221006_SEM.html",
