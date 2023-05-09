@@ -1,0 +1,18 @@
+---
+title: "Incorporating Meta-Science in the development of mediation and moderation analysis"
+subtitle: "USC Quantitative Speaker Series (Spring 2023)"
+---
+
+**Date: April 6, 2023**
+
+**Speaker: Amanda Kay Montoya, Ph.D.**
+
+Assistant Professor\
+Department of Psychology\
+University of California, Los Angeles
+
+[**Video Recording**](https://drive.google.com/file/d/1bdxfIccCtP0lCh2MH4aI_645C9_RCCU9/view?usp=share_link) (requires sign in using your USC NetID)
+
+### Abstract
+
+Mediation and moderation analysis are ubiquitous throughout psychological research and help address questions about when and why effects occur. Research practices within psychology have grown and evolved in reaction to the replicability crisis, including new steps to study planning (e.g., preregistration) and increased attention to existing practices (e.g., power analysis). As such, methodologists need to incorporate these new priorities as part of their work developing and evaluating statistical methods and when creating tools to aid researchers in their analyses. In this talk, I overview my work on mediation, moderation, and conditional process analysis in two-instance repeated-measures designs, a very commonly used design in psychology. I have developed an easy to use macro which can be used to estimate these models as well as implement resampling methods for inference, assist with generating plots, and many other useful features. I demonstrate how integrating meta-scientific methods to evaluate current practice in mediation and moderation, and aiding researchers in implementing preregistration and sample size planning. Overall, research suggests there is reason to be concerned about the quality of evidence from published mediation and moderated mediation results. My lab has worked to develop tools and evaluate methods for sample size planning and preregistration, which should improve this quality of evidence. I discuss future direction of my research, including extending to more complex outcomes in mediation and moderation.

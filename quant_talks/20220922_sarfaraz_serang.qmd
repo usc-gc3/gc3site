@@ -11,6 +11,8 @@ Assistant Professor\
 Department of Psychology\
 University of South Carolina
 
+[**Video Recording**](https://drive.google.com/file/d/1BcNyCifn5bYL6ErJuNNVn5SZ2Cwi4zNc/view?usp=share_link) (requires sign in using your USC NetID)
+
 ### Abstract
 
 Jack McArdle was an exceptional person and scholar. In this talk, I'll discuss his influence on me and work I've done inspired by conversations with him. Specifically, I plan to talk about the latent growth curve and latent change score models, two of Jack's most influential contributions to the longitudinal structural equation modeling literature. I also plan to discuss structural equation model trees, a prime example of his later work on data mining. In both cases, I will share how I've tried to expand on his ideas in an effort to carry on his legacy.

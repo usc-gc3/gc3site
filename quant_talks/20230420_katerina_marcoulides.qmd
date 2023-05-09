@@ -1,0 +1,18 @@
+---
+title: "Methodological Considerations in Data Fusion using Bayesian Synthesis"
+subtitle: "USC Quantitative Speaker Series (Spring 2023)"
+---
+
+**Date: April 20, 2023**
+
+**Speaker: Katerina Marcoulides, Ph.D.**
+
+Associate Professor\
+Department of Psychology\
+University of Minnesota
+
+[**Video Recording**](https://drive.google.com/file/d/1vWOcIwrRtZ5fgg1KNpPaftqh4KUnBzOc/view?usp=share_link) (requires sign in using your USC NetID)
+
+### Abstract
+
+There has been an exponential growth in the amount of data collected on individuals, creating numerous opportunities for examining new theories and developing new methods of analysis. At the same time, the number of different sources over which this information is divided continues to grow, creating additional obstacles for effectively combining such data so that it can be properly explored. Data fusion is one method that has been shown to facilitate more complex and more accurate analyses of combined data than those resulting from analyses of separate datasets. This presentation will introduce some recent developments in data fusion methodology via the use of the Bayesian Synthesis approach. Bayesian Synthesis is a new approach whereby results from the analysis of one dataset are exploited as prior information for the analysis of the next dataset. The presentation will also report results on the performance of Bayesian Synthesis in relation to issues regarding the order in which data are incorporated into the fusion process.
