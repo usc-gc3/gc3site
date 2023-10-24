@@ -1,0 +1,19 @@
+---
+title: "Mom Genes: A new extended pedigree model for quantifying the contributions of mitochondrial DNA"
+subtitle: "USC Quantitative Speaker Series (Fall 2023)"
+---
+  
+**Date: October 19, 2023**
+  
+**Speaker: S. Mason Garrison, Ph.D.**
+  
+  Assistant Professor\
+Department of Psychology\
+Wake Forest University
+
+[**Video Recording**](https://drive.google.com/file/d/1xFw-H7HKctjeiBJnM_BdKa0tV3BgRSqM/view?usp=share_link) (requires sign in using your USC NetID)
+
+### Abstract
+
+Mitochondria, the “powerhouse” of the cell, possess their own DNA (mtDNA) that exists in our cellular cytoplasm. Unlike nuclear DNA, mtDNA reproduces asexually without recombination and is passed directly down the maternal line. This unique, non-Mendelian pattern of inheritance has long been employed in forensic identity testing, notably in the identification of King Richard III. However, it has yet to be incorporated into biometrical models. In this presentation, I will share our team’s years-long effort to leverage this singular inheritance pattern of mtDNA to estimate the proportion of variance due to variation in mtDNA (mt²). I will begin by presenting the foundational logic behind our model, followed by a description of the Utah Population Database
+(UPDB) and its assessment of longevity (the first phenotype under study). Delving into our analyses, I'll present correlations between distantly-related maternal and paternal cousins using the vast UPDB dataset, which encompasses approximately 4.8 million individuals connected through over 780 billion relationships. Time permitting, I will share insights from our power analysis, examining the capabilities of the extended pedigree model under various pedigree structures. To conclude, I will discuss the practical applications and challenges of modeling mtDNA effects in the UPDB and introduce the biometrical tools in our recently-expanded R package, BGmisc.

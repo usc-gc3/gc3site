@@ -1,0 +1,17 @@
+---
+title: "Robust Statistics: Why Your Statistical Analyses Might Be Completely Wrong. Chapter 1.1. Intro to Outliers"
+subtitle: "USC GC-3 Workshop (Fall 2023)"
+---
+  
+**Date: Oct 23, 2023**
+  
+**Speaker: Sean Lee**
+  
+### Abstract
+  
+In this workshop, we will talk about why your statistical analyses might be completely wrong, and how to fix them.
+
+![](flyers/introOutliers.png){width="80%"} 
+
+### Video Recording
+([Recording](https://www.youtube.com/watch?v=D73AjnaQfEE))
