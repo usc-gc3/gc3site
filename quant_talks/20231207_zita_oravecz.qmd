@@ -1,0 +1,18 @@
+---
+title: "Disentangling multi-timescale latent processes in high-intensity repeated mobile cognitive assessments"
+subtitle: "USC Quantitative Speaker Series (Fall 2023)"
+---
+  
+**Date: December 7, 2023**
+  
+**Speaker: Zita Oravecz, Ph.D.**
+  
+  Associate Professor\
+Department of Human Development and Family Studies\
+Pennsylvania State University
+
+[**Video Recording**](https://drive.google.com/file/d/1GQcnj42KkWcPCEe6tnLa6CJbn-YbVD28/view?usp=sharing) (requires sign in using your USC NetID)
+
+### Abstract
+
+Sensitive and accurate measurement of change in cognitive performance is crucial for the detection of subtle cognitive change, particularly in identifying early-stage dementia risk. Smartphone-based cognitive assessments can generate an unparalleled time series of cognitive performance data by delivering ultra-brief assessments multiple times per day over several days. However, in repeated cognitive assessments, short-term within-person variability and retest learning effects can mask cognitive change due to normative cognitive aging or neurodegenerative disease progression. In this presentation, I will introduce a multi-timescale computational process modeling approach designed to disentangle cognitive processes in repeated assessments. Specifically, by using the Bayesian exponential learning model, we can extract key digital cognitive markers of processes generating observed performance over time, including learning rate, forgetting, variability, change in peak performance. This approach also enables us to leverage recent findings that indicate that processes related to cognitive task learning over time may be indicators of dementia risk. I will present results from the Einstein Aging Study demonstrating how person-specific digital cognitive markers are associated with age and mild cognitive impairment status. With this computational modeling approach, we can work towards identifying novel digital computational phenotypes of dementia risk.

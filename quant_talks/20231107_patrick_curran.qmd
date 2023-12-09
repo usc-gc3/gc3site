@@ -1,0 +1,18 @@
+---
+title: "Latent Growth Factors as Predictors of Distal Outcomes: Completing the Triad"
+subtitle: "USC Quantitative Speaker Series (Fall 2023)"
+---
+  
+**Date: November 7, 2023**
+  
+**Speaker: Patrick J. Curran, Ph.D.**
+  
+  Professor\
+Department of Psychology\
+University of North Carolina at Chapel Hill
+
+[**Video Recording**](https://drive.google.com/file/d/13ja1jlTk7_IoNXBRkoyfYmVMAyoGqECh/view?ts=655299ea) (requires sign in using your USC NetID)
+
+### Abstract
+
+It is often said that the goal of longitudinal research is to study the course, causes, and consequences of behavior over time. The past three decades have given rise to tremendous advances in addressing the first two goals, but virtually nothing is known about the third. Whereas the standard LCM uses growth factors as dependent variables (to study the course and causes of behavioral change) it is highly desirable to use the growth factors themselves as predictors of one or more distal outcomes (to study the consequences of behavioral change). Although it is quite easy to specify the distal outcome LCM in any standard software package, there are a number of significant and unexpected complications that can drastically impact substantive conclusions. The aim of this talk is to review the standard LCM, both with and without predictors; to expand this to define the distal outcomes LCM; to highlight the critical role and unexpected consequences of the choice numerical scaling of time; to propose a principled strategy for choosing an optimal time scale; to demonstrate these methods using both simulated and real data; and to make recommendations for the use of these methods in practice.

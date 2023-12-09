@@ -6,6 +6,8 @@ title: "Quantitative Speaker Series"
 
 | Date   | Topic                                                                                                                          | Speaker              |
 |--------|--------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| Dec 7 | [Disentangling multi-timescale latent processes in high-intensity repeated mobile cognitive assessments](quant_talks/20231207_zita_oravecz.html)        | Zita Oravecz |
+| Nov 7 | [Latent Growth Factors as Predictors of Distal Outcomes: Completing the Triad](quant_talks/20231107_patrick_curran.html)        | Patrick J. Curran |
 | Oct 19 | [Mom Genes: A new extended pedigree model for quantifying the contributions of mitochondrial DNA](quant_talks/20231019_mason_garrison.html)        | S. Mason Garrison |
 
 
