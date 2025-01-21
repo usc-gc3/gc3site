@@ -1,0 +1,22 @@
+---
+title: "Recent Advancements of Moderation and Mediation Analyses"
+subtitle: "USC Quantitative Speaker Series (Spring 2024)"
+---
+  
+**Date: April 26, 2024**
+  
+**Speaker: Ke-Hai Yuan, Ph.D.**
+  
+  Professor\
+Department of Psychology\
+University of Notre Dame
+
+[**Video Recording**](https://drive.google.com/file/d/14kc9jaKDfWfMVtXxNg8NHUsxiVvViLo1/view?usp=drive_link) (requires sign in using your USC NetID)
+
+### Abstract
+
+Moderation and mediation analyses are key methods for understanding the roles of variables in empirical research. In this talk, we review recent developments of the two methods with respect to more honest methods, more efficient parameter estimation, and more accurate measures of effect sizes, as presented in Liu and Yuan (2021), Liu et al. (2020, 2021, 2022, 2024) and Yuan et al. (2014).
+
+Moderation occurs when the effect of the predictor on the outcome variable depends on a third variable, which is termed as the moderator. This effect is conceptually defined as the effect of the moderator on the path coefficient from the predictor to the outcome variable. The predictor and moderator are different not only in concept but also functionality. However, the effect of moderation has been implemented as an interaction effect in textbooks, software and tutorial articles. Such a treatment causes not only less efficient parameter estimates for the moderation effect itself but also wrong measures in quantifying the size of the effect. In addition, the treatment also causes problems in the study of the processes of moderated mediation and mediated moderation. The talk will cover recent methodological developments in addressing these issues by using a two-level model with single-level data. How moderated mediation is distinguished from mediated moderation will be illustrated.
+
+Multiple effect-size measures were proposed in mediation analysis. However, these measures are either only restricted to the three-variable mediation model or not honestly representing the mediation effect. The talk will introduce a new framework for quantifying effect sizes in mediation analysis (Liu et al., 2024). Through contributions to the explained variance of the outcome variable, this framework not only permits honest and more accurate evaluation of mediation effects via particular paths but also facilitates easy formulation of effect-size measures for complex mediation processes.

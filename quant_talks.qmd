@@ -2,6 +2,26 @@
 title: "Quantitative Speaker Series"
 ---
 
+## Fall 2024
+
+| Date   | Topic                                                                                                                          | Speaker              |
+|--------|--------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| Oct 31 | [Latent Factor Score Estimation With Missing Data](quant_talks/20241031_ehri_ryu.html)        | Ehri Ryu |
+| Nov 14 | [Measuring the Unmeasurable? Psychometrics and Human Evaluation in Google Ads](quant_talks/20241114_jeremy_miles.html)        | Jeremy Miles |
+
+
+
+## Spring 2024
+
+| Date   | Topic                                                                                                                          | Speaker              |
+|--------|--------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| Apr 26 | [Recent Advancements of Moderation and Mediation Analyses](quant_talks/20240426_kh_yuan.html)        | Ke-Hai Yuan |
+| Apr 18 | [Elliptical Sampling as an Alternative to Extreme Group Designs](quant_talks/20240418_ryne_estabrook.html)        | Ryne Estabrook |
+| Apr 4 | [Assessing the Validity of Behavioral Measures of Risk Taking](quant_talks/20240404_kevin_kapadia.html)        | Kevin Kapadia |
+| Feb 15 | [Mapping Person-Item Interactions: A Latent Space Approach to Psychological Assessment Data with Interaction Maps](quant_talks/20240215_mj_jeon.html)        | Minjeong Jeon |
+
+
+
 ## Fall 2023
 
 | Date   | Topic                                                                                                                          | Speaker              |

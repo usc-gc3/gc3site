@@ -1,0 +1,18 @@
+---
+title: "Latent Factor Score Estimation With Missing Data"
+subtitle: "USC Quantitative Speaker Series (Fall 2024)"
+---
+  
+**Date: October 31, 2024**
+  
+**Speaker: Ehri Ryu, Ph.D.**
+  
+  Associate Professor\
+Department of Psychology and Neuroscience\
+Boston College
+
+[**Video Recording**](To be updated) (requires sign in using your USC NetID)
+
+### Abstract
+
+Researchers often save the estimated factor scores from a confirmatory factor analysis (CFA) model and analyze the factor scores in subsequent analyses. This talk will present a simulation study to investigate the statistical properties of the factor score estimates when there are missing values in the observed responses, particularly when the data are sparse. Assuming that the missingness occurs due to missing at random (MAR) mechanism and the MAR missingness is properly accounted for in the model, the CFA model can still be estimated to produce unbiased parameter estimates using full information maximum likelihood estimation to handle missing data. The factor scores are determined by a function of the observed response data as well as the CFA model parameter estimates. The simulation study focuses on the role of data when the parameter estimates hold desirable statistical properties. The first part of the simulation study evaluates the statistics associated with the saved factor scores. In the second part, a number of different ways of using the saved factor scores are explored as an attempt to overcome the poor performance of the saved factor scores when they are estimated with sparse response data.

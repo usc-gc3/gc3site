@@ -1,0 +1,18 @@
+---
+title: "Elliptical Sampling as an Alternative to Extreme Group Designs"
+subtitle: "USC Quantitative Speaker Series (Spring 2024)"
+---
+  
+**Date: April 18, 2024**
+  
+**Speaker: Ryne Estabrook, Ph.D.**
+  
+  Clinical Assistant Professor\
+Department of Psychology\
+University of Illinois at Chicago
+
+[**Video Recording**](https://drive.google.com/file/d/1Y_uIG7R0CYI27l_RmOa2yZ3kmlXS8t_a/view?usp=drive_link) (requires sign in using your USC NetID)
+
+### Abstract
+
+Extreme group approaches are a special case of oversampling that maximizes power by selecting cases based on extreme scores on a selection variable. In doing so, extreme group approaches retain only those cases with scores far from the population mean, increasing not only the variance of the selection variable, but also correlations and associations involving that variable. However, these methods have significant shortcomings, including the inability to effectively generalize to selection on two or more variables. To address this shortcoming, this paper proposes an alternative multivariate generalization to extreme group approaches, dubbed elliptical sampling, and compares this method to several existing methods via simulation study. Results indicate that the elliptical method outperforms traditional EGA methods, yielding maximal power and retaining the full sample covariance structure between selection variables. Selecting on more than one variable further allows researchers to test for quadratic and interaction effects, a noted shortcoming of traditional EGA methods. Finally, fitting these models via structural equation modeling reconceptualizes these designs as planned missing data, reducing R2 bias. Recommendations for use, an empirical and coding example, and future directions are discussed.

@@ -1,0 +1,18 @@
+---
+title: "Mapping Person-Item Interactions: A Latent Space Approach to Psychological Assessment Data with Interaction Maps"
+subtitle: "USC Quantitative Speaker Series (Spring 2024)"
+---
+  
+**Date: February 15, 2024**
+  
+**Speaker: Minjeong Jeon, Ph.D.**
+  
+  Associate Professor\
+Department of Education\
+University of California, Los Angeles
+
+[**Video Recording**](https://drive.google.com/file/d/1-xArD1XcYqIuj9OMF8BkSD_bJSxp5kFz/view?usp=drive_link) (requires sign in using your USC NetID)
+
+### Abstract
+
+In this talk, I introduce a novel network modeling approach to psychological assessment data. In this approach, individuals’ responses to test items are viewed as a bipartite network between respondents and items where a tie is assumed present when a respondent gives a positive answer to an item. The resulting latent space model provides a window into respondents’ performance on assessment, placing respondents and test items in a shared metric space referred to as an interaction map. The interaction map helps evaluate individuals’ strengths and weaknesses from cognitive assessment and helps identify patients’ symptom profiles from clinical assessment data. I will illustrate the utilities of the proposed approach with real data examples, focusing on how the interaction map can help derive personalized diagnostic information on individual respondents.

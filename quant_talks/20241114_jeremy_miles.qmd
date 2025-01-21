@@ -1,0 +1,18 @@
+---
+title: "Measuring the Unmeasurable? Psychometrics and Human Evaluation in Google Ads"
+subtitle: "USC Quantitative Speaker Series (Fall 2024)"
+---
+  
+**Date: November 14, 2024**
+  
+**Speaker: Jeremy Miles, Ph.D.**
+  
+  Senior Data Scientist\
+Ads Human Evaluation\
+Google
+
+[**Video Recording**](To be updated) (requires sign in using your USC NetID)
+
+### Abstract
+
+In this talk I will give a broad overview of some different aspects of my work as a data scientist at Google with a background in psychology. Within Google's Ads Human Evaluation team, we leverage human raters to assess the quality and suitability of internet advertisements. These raters provide insights into subjective aspects of ads, answering questions such as "Is this ad appropriate for children?" or "Does this ad align with the content of this website?". The data generated from these evaluations serve several purposes, including: (a) Machine Learning: Human ratings are used to train machine learning models that select ads to be served to users; (b) Ad Selection Algorithm Evaluation: We utilize the data to evaluate AB test different algorithms; (c) Maintaining Ad Quality and Safety: Continuous monitoring of ad quality is used to quickly detect problems or issues. In this talk I will give an overview of three challenges that we encounter when collecting and using this type of data: (a) the psychometrics of ad assessment; (b) evaluating rater expertise; (c) navigating the complexities of ad quality experiments. A blog post about some of our work can be found by Googling 'Google data science blog reliability'.

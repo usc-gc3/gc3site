@@ -1,0 +1,18 @@
+---
+title: "Assessing the Validity of Behavioral Measures of Risk Taking"
+subtitle: "USC Quantitative Speaker Series (Spring 2024)"
+---
+  
+**Date: April 4, 2024**
+  
+**Speaker: Kevin Kapadia**
+  
+  Ph.D. Student\
+Department of Psychology\
+University of Southern California
+
+[**Video Recording**](https://drive.google.com/drive/folders/1OJFH-sHbmadgZ3GkN6ZUMgRDAhsh78nM?usp=drive_link) (requires sign in using your USC NetID)
+
+### Abstract
+
+In this talk, I review various behavioral measures of risk taking (BMRT) with regards to their internal and external validity. BMRT were created to function as an alternative to monetary gambles or self-report measures to evaluate the risk taking propensity of individuals. However, they suffer from various conceptual issues within tasks and poor convergent validity between tasks laying doubt to the claim they measure risk taking at all. I explore the Columbia Card Task (CCT) in-depth as an example of conceptual issues within a task. Additionally, I compare three BMRTs to each other, a self-report measure of risk taking, and additional measures to illustrate and attempt to determine the cause of poor convergent validity between BMRT.
