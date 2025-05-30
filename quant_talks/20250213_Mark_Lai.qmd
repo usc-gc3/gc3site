@@ -1,0 +1,18 @@
+---
+title: "A two-stage approach to account for measurement error when using random slopes as predictors"
+subtitle: "USC Quantitative Speaker Series (Spring 2025)"
+---
+  
+**Date: February 13, 2025**
+  
+**Speaker: Mark Lai, Ph.D.**
+  
+  Associate Professor\
+Department of Psychology\
+University of Southern California
+
+[**Video Recording**](To be updated) (requires sign in using your USC NetID)
+
+### Abstract
+
+Psychological researchers have increasingly used individual-specific slopes, also called random slopes in multilevel models, to operationalize dynamic constructs, such as individual growth, emotion inertia, and synchrony between partners. However, the empirical Bayes (EB) estimates of random slopes, commonly used as predictors of cluster-level outcomes, are generally not reliable and could lead to biased results. While multilevel structural equation modeling (MSEM) accounts for such measurement error, we propose a flexible two-stage approach that is less computationally complex, yet offers similar performance to MSEM. The proposed approach is demonstrated through an empirical example of stress reactivity.

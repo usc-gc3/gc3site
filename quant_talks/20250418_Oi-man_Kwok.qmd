@@ -1,0 +1,18 @@
+---
+title: "A Few Things I’ve Learned About Multilevel Modeling (MLM) Over the Past 20 Years"
+subtitle: "USC Quantitative Speaker Series (Spring 2025)"
+---
+  
+**Date: April 18, 2025**
+  
+**Speaker: Oi-man Kwok, Ph.D.**
+  
+  Professor\
+Department of Education and Human Development\
+Texas A&M University
+
+[**Video Recording**](To be updated) (requires sign in using your USC NetID)
+
+### Abstract
+
+Multilevel modeling (MLM)—also known as hierarchical linear modeling (HLM) or mixed-effects modeling—is widely used for analyzing nested data in the social sciences. In this presentation, I will highlight several key concepts in MLM, beginning with variance decomposition and intraclass correlation. I will then focus on predictor centering, emphasizing the importance of group-mean centering for lower-level predictors and its implications for testing contextual effects. The presentation will conclude with practical recommendations for analyzing multilevel data.

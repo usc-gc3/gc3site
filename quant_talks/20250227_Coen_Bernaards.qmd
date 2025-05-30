@@ -1,0 +1,18 @@
+---
+title: "Patient-Centered Outcomes Research at Genentech"
+subtitle: "USC Quantitative Speaker Series (Spring 2025)"
+---
+  
+**Date: February 27, 2025**
+  
+**Speaker: Coen Bernaards, Ph.D.**
+  
+Chapter Head of Psychometrics People and Product Leader\
+Patient-Centered Outcomes Research\
+Genentech, Inc
+
+[**Video Recording**](To be updated) (requires sign in using your USC NetID)
+
+### Abstract
+
+In this talk I will provide an overview of Patient-Centered Outcomes Research (PCOR) at Genentech / Roche. Discussion includes similarities and differences between psychological measurement and Patient Reported Outcomes (PRO) in clinical trials, the value of PRO to inform patients, the interest of regulatory agencies in PRO, and the utility of PRO as part of the assessment of reimbursement of therapeutics in a global environment. Finally, I will show an example of PRO analyses in a clinical trial.

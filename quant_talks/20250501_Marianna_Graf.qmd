@@ -1,0 +1,17 @@
+---
+title: "From Data to Knowledge: AI/ML solutions to industry applications"
+subtitle: "USC Quantitative Speaker Series (Spring 2025)"
+---
+  
+**Date: May 1, 2025**
+  
+**Speaker: Marianna Graf, Ph.D.**
+  
+  Co-Founder and Research Scientist\
+Artif Wonder
+
+[**Video Recording**](To be updated) (requires sign in using your USC NetID)
+
+### Abstract
+
+Nowadays, most companies across industries generate immense amounts of data. In fact data is becoming these companies’ most valuable asset. However, the key to the power of data is the ability to extract knowledge from it. Data knowledge can help businesses make the right decisions, at the right time. We use artificial intelligence (AI) and machine learning (ML) to engineer knowledge from data and convert it into actionable intelligence for businesses to innovate and scale. This talk explores the transformative potential of AI in providing bespoke business solutions across a range of industries. Through practical examples and case studies, I aim to bridge the gap between technology and human-focused disciplines, highlighting the immense opportunities that AI presents.

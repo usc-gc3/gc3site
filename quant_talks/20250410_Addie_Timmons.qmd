@@ -1,0 +1,18 @@
+---
+title: "AI and technology-based micro-experimental intervention for precision mental health"
+subtitle: "USC Quantitative Speaker Series (Spring 2025)"
+---
+  
+**Date: April 10, 2025**
+  
+**Speaker: Addie Timmons, Ph.D.**
+  
+  Assistant Professor\
+Department of Psychology\
+University of Texas at Austin
+
+[**Video Recording**](To be updated) (requires sign in using your USC NetID)
+
+### Abstract
+
+As the demand for scalable, effective, and personalized mental health interventions grows, the integration of artificial intelligence (AI) and digital technologies offers unprecedented opportunities to transform care. I will present preliminary findings from an ongoing clinical trial to evaluate a micro-experimental intervention aimed at improving emotional regulation and stress resilience in kids and families. This trial employs an adaptive design to optimize intervention components in real-time, based on individual response patterns and contextual data. The talk will highlight how AI-driven analytics and just-in-time intervention delivery are being used to tailor support at the moment it’s needed most, advancing the promise of precision mental health. I will also discuss challenges and lessons learned from implementing this approach, and future directions for deploying scalable digital interventions across clinical and community settings.

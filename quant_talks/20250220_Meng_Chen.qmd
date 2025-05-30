@@ -1,0 +1,18 @@
+---
+title: "Detecting Critical Change in Dynamics Through Outlier Detection with Time-Varying Parameters"
+subtitle: "USC Quantitative Speaker Series (Spring 2025)"
+---
+  
+**Date: February 20, 2025**
+  
+**Speaker: Meng Chen, Ph.D.**
+  
+  Assistant Professor\
+Department of Psychology\
+University of Southern California
+
+[**Video Recording**](To be updated) (requires sign in using your USC NetID)
+
+### Abstract
+
+Intensive longitudinal data are often found to be nonstationary, namely, showing changes in statistical properties, such as means and variance-covariance structures, over time. One way to accommodate nonstationarity is to specify key parameters that show over-time changes as time-varying parameters (TVPs), yet abrupt transitions in TVPs can signal critical shifts in underlying processes. Identifying these shifts is particularly important in psychological research, where change points may reflect developmental transitions, intervention effects, or shifts in emotional and cognitive states. In this talk, an outlier detection method within a state-space modeling framework is proposed to detect abrupt changes in TVPs as innovative outliers. I will present findings from three simulation studies, demonstrating the method’s accuracy in detecting sudden shifts across single-subject, multivariate, and group-level models with individual-specific change points. Additionally, I will illustrate its empirical utility with facial electromyography (EMG) data collected during an emotion induction experiment.

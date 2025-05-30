@@ -1,0 +1,18 @@
+---
+title: "Exploring the potential of Large Language Models (LLMs) in early-stage test development"
+subtitle: "USC Quantitative Speaker Series (Spring 2025)"
+---
+  
+**Date: April 24, 2025**
+  
+**Speaker: Meltem Ozcan**
+  
+  Ph.D Candidate\
+Department of Psychology\
+University of Southern California
+
+[**Video Recording**](To be updated) (requires sign in using your USC NetID)
+
+### Abstract
+
+In this talk, I will share some preliminary findings and observations from an ongoing project exploring the potential of Large Language Models (LLMs) to expedite and simplify test development and refinement. Test development is a complex and iterative process with several resource-intensive stages designed to yield fair, accurate, and reliable measures of the constructs of interest by minimizing potential sources of error. As researchers in measurement science increasingly leverage LLMs to streamline traditionally labor-intensive processes, empirical assessment of their performance, strengths, and limitations in psychometric tasks is essential. I will share results from a novel task designed to investigate LLMs' ability to replicate expert decisions on item selection or deletion using the initial item pool and the final validated item set of the Short Antinatalism Scale (S-ANS; Schönegger et al., 2023). I will compare the task performance of Open AI's GPT, Google's Gemini, and Anthropic's Claude models, explore the impact of various prompt engineering strategies on performance, and share results from generalizability and decision studies that provide insights into various sources of error and the reliability of measurements.
