@@ -4,7 +4,7 @@
     "href": "others/install_rstan.html",
     "title": "How to Install rstan and brms",
     "section": "",
-    "text": "Make sure R is up-to-date &gt; 4.2\nConfigural C++ Toolchain\n\nSet up the C++ Toolchain using the macOS R toolchain installer\nTo improve estimation speed, you can copy the following syntax to the R console\n\n\n\ndotR &lt;- file.path(Sys.getenv(\"HOME\"), \".R\")\nif (!file.exists(dotR)) dir.create(dotR)\nM &lt;- file.path(dotR, \"Makevars\")\nif (!file.exists(M)) file.create(M)\narch &lt;- ifelse(R.version$arch == \"aarch64\", \"arm64\", \"x86_64\")\ncat(paste(\"\\nCXX14FLAGS += -O3 -mtune=native -arch\", arch, \"-ftemplate-depth-256\"),\n    file = M, sep = \"\\n\", append = FALSE)\n\n\nTo install rstan, in the R console\n\nRemove all old rstan files, if they exist\n\n\n\nremove.packages(\"rstan\")\nif (file.exists(\".RData\")) file.remove(\".RData\")\n\n\nRestart R\nInstall StanHeaders and rstan\n\n\ninstall.packages(\"StanHeaders\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\ninstall.packages(\"rstan\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\n\n\nVerify installation (details)\n\n\nremove.packages(\"rstan\")\nif (file.exists(\".RData\")) file.remove(\".RData\")\n\ninstall.packages(\"StanHeaders\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\ninstall.packages(\"rstan\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\n\n\nInstall brms (details)\n\n\ninstall.packages(\"brms\")\n\nYou’re all set!"
+    "text": "Make sure R is up-to-date > 4.2\nConfigural C++ Toolchain\n\nSet up the C++ Toolchain using the macOS R toolchain installer\nTo improve estimation speed, you can copy the following syntax to the R console\n\n\n\ndotR <- file.path(Sys.getenv(\"HOME\"), \".R\")\nif (!file.exists(dotR)) dir.create(dotR)\nM <- file.path(dotR, \"Makevars\")\nif (!file.exists(M)) file.create(M)\narch <- ifelse(R.version$arch == \"aarch64\", \"arm64\", \"x86_64\")\ncat(paste(\"\\nCXX14FLAGS += -O3 -mtune=native -arch\", arch, \"-ftemplate-depth-256\"),\n    file = M, sep = \"\\n\", append = FALSE)\n\n\nTo install rstan, in the R console\n\nRemove all old rstan files, if they exist\n\n\n\nremove.packages(\"rstan\")\nif (file.exists(\".RData\")) file.remove(\".RData\")\n\n\nRestart R\nInstall StanHeaders and rstan\n\n\ninstall.packages(\"StanHeaders\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\ninstall.packages(\"rstan\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\n\n\nVerify installation (details)\n\n\nremove.packages(\"rstan\")\nif (file.exists(\".RData\")) file.remove(\".RData\")\n\ninstall.packages(\"StanHeaders\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\ninstall.packages(\"rstan\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\n\n\nInstall brms (details)\n\n\ninstall.packages(\"brms\")\n\nYou’re all set!"
   },
   {
     "objectID": "others/install_rstan.html#for-mac-users",
@@ -18,7 +18,7 @@
     "href": "others/install_rstan.html#for-windows-users",
     "title": "How to Install rstan and brms",
     "section": "For Windows Users",
-    "text": "For Windows Users\n\nMake sure R is up-to-date &gt; 4.2\nConfigural C++ Toolchain (follow steps for R 4.2)\n\nInstall RTools42 (details; installer)\n\nTo install rstan, in the R console\n\nRemove all old rstan files, if they exist\n\n\n\nremove.packages(\"rstan\")\nif (file.exists(\".RData\")) file.remove(\".RData\")\n\n\nRestart R\nInstall StanHeaders and rstan\n\n\ninstall.packages(\"StanHeaders\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\ninstall.packages(\"rstan\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\n\n\nVerify installation (details)\n\n\nremove.packages(\"rstan\")\nif (file.exists(\".RData\")) file.remove(\".RData\")\n\ninstall.packages(\"StanHeaders\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\ninstall.packages(\"rstan\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\n\n\nInstall brms (details)\n\n\ninstall.packages(\"brms\")\n\nYou’re all set!"
+    "text": "For Windows Users\n\nMake sure R is up-to-date > 4.2\nConfigural C++ Toolchain (follow steps for R 4.2)\n\nInstall RTools42 (details; installer)\n\nTo install rstan, in the R console\n\nRemove all old rstan files, if they exist\n\n\n\nremove.packages(\"rstan\")\nif (file.exists(\".RData\")) file.remove(\".RData\")\n\n\nRestart R\nInstall StanHeaders and rstan\n\n\ninstall.packages(\"StanHeaders\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\ninstall.packages(\"rstan\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\n\n\nVerify installation (details)\n\n\nremove.packages(\"rstan\")\nif (file.exists(\".RData\")) file.remove(\".RData\")\n\ninstall.packages(\"StanHeaders\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\ninstall.packages(\"rstan\", repos = c(\"https://mc-stan.org/r-packages/\", getOption(\"repos\")))\n\n\nInstall brms (details)\n\n\ninstall.packages(\"brms\")\n\nYou’re all set!"
   },
   {
     "objectID": "resources.html",
@@ -172,14 +172,14 @@
     "href": "quant_talks.html",
     "title": "Quantitative Speaker Series",
     "section": "",
-    "text": "Date\nTopic\nSpeaker\n\n\n\n\nFeb 13\nA two-stage approach to account for measurement error when using random slopes as predictors\nMark Lai\n\n\nFeb 20\nDetecting Critical Change in Dynamics Through Outlier Detection with Time-Varying Parameters\nMeng Chen\n\n\nFeb 27\nPatient-Centered Outcomes Research at Genentech\nCoen Bernaards\n\n\nApr 10\nAI and technology-based micro-experimental intervention for precision mental health\nAddie Timmons\n\n\nApr 18\nA Few Things I’ve Learned About Multilevel Modeling (MLM) Over the Past 20 Years\nOi-man Kwok\n\n\nApr 24\nExploring the potential of Large Language Models (LLMs) in early-stage test development\nMeltem Ozcan\n\n\nMay 1\nFrom Data to Knowledge: AI/ML solutions to industry applications\nMarianna Graf"
+    "text": "To be determined…"
   },
   {
     "objectID": "quant_talks.html#spring-2025",
     "href": "quant_talks.html#spring-2025",
     "title": "Quantitative Speaker Series",
-    "section": "",
-    "text": "Date\nTopic\nSpeaker\n\n\n\n\nFeb 13\nA two-stage approach to account for measurement error when using random slopes as predictors\nMark Lai\n\n\nFeb 20\nDetecting Critical Change in Dynamics Through Outlier Detection with Time-Varying Parameters\nMeng Chen\n\n\nFeb 27\nPatient-Centered Outcomes Research at Genentech\nCoen Bernaards\n\n\nApr 10\nAI and technology-based micro-experimental intervention for precision mental health\nAddie Timmons\n\n\nApr 18\nA Few Things I’ve Learned About Multilevel Modeling (MLM) Over the Past 20 Years\nOi-man Kwok\n\n\nApr 24\nExploring the potential of Large Language Models (LLMs) in early-stage test development\nMeltem Ozcan\n\n\nMay 1\nFrom Data to Knowledge: AI/ML solutions to industry applications\nMarianna Graf"
+    "section": "Spring 2025",
+    "text": "Spring 2025\n\n\n\nDate\nTopic\nSpeaker\n\n\n\n\nFeb 13\nA two-stage approach to account for measurement error when using random slopes as predictors\nMark Lai\n\n\nFeb 20\nDetecting Critical Change in Dynamics Through Outlier Detection with Time-Varying Parameters\nMeng Chen\n\n\nFeb 27\nPatient-Centered Outcomes Research at Genentech\nCoen Bernaards\n\n\nApr 10\nAI and technology-based micro-experimental intervention for precision mental health\nAddie Timmons\n\n\nApr 18\nA Few Things I’ve Learned About Multilevel Modeling (MLM) Over the Past 20 Years\nOi-man Kwok\n\n\nApr 24\nExploring the potential of Large Language Models (LLMs) in early-stage test development\nMeltem Ozcan\n\n\nMay 1\nFrom Data to Knowledge: AI/ML solutions to industry applications\nMarianna Graf"
   },
   {
     "objectID": "quant_talks.html#fall-2024",
@@ -240,7 +240,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to McArdle GC-3 Center!",
+    "title": "Welcome to McArdle GC3!",
     "section": "",
     "text": "The aim of the John J. McArdle Graduate Consultation and Computer Center (GC3) is to provide free statistical consultation to progressive masters students, doctoral students and faculty in the USC Psychology Department. The center provides support for students working on research projects, including but not limited to: poster presentations, symposia, journal articles, theses, and dissertations. The center is equipped with computers, as well as a variety of statistical programs for students and faculty to use with or without the assistance of the GC3 consultants. The center also provides workspace for those to bring their own computers and work on projects, individually or as small teams."
   },
@@ -254,28 +254,28 @@
   {
     "objectID": "index.html#walkin-hours-appointments",
     "href": "index.html#walkin-hours-appointments",
-    "title": "Welcome to McArdle GC-3 Center!",
+    "title": "Welcome to McArdle GC3!",
     "section": "Walkin Hours & Appointments",
-    "text": "Walkin Hours & Appointments\nOur GC3 statistical consultants are available by appointment and walk-in hours. Please fill out this form and email us at gc3@usc.edu 48 hours prior to the appointment/walk-in hours. The GC3 office is at SGM 718.\n\nOur statistical consultant in the 2025 - 2026 Academic Year is Jimmy Zhang. We welcome you to bring along your statistical and analytical questions and visit us at SGM 718 during our walk-in hours:\n\nThursday 2:00 PM - 4:00 PM\n\nPlease note that appointments are currently available only to members of the USC Psychology Department. To make an appointment (online or in-person), please fill out the form first and email gc3@usc.edu, one of current TAs will contact you."
+    "text": "Walkin Hours & Appointments\nOur GC3 statistical consultants are available by appointment and walk-in hours. Please fill out this form 48 hours prior to the appointment/walk-in hours. The GC3 office is at SGM 718.\n\nOur student consultant for Fall 2025 is Jimmy Zhang, and the faculty consultant is Dr. Meng Chen. We welcome you to bring along your statistical and analytical questions and visit us at SGM 718 during our walk-in hours:\n\nJimmy: Thursday 2:00 PM - 4:00 PM\nMeng: Tuesday 3:00 PM - 5:00 PM\n\nPlease note that appointments are currently available only to members of the USC Psychology Department.To make an appointment (online or in-person), please fill out the form first and email gc3@usc.edu, one of current TAs will contact you."
   },
   {
     "objectID": "index.html#quantitative-speaker-series",
     "href": "index.html#quantitative-speaker-series",
-    "title": "Welcome to McArdle GC-3 Center!",
+    "title": "Welcome to McArdle GC3!",
     "section": "Quantitative Speaker Series",
     "text": "Quantitative Speaker Series\nIn addition to being a resource for one-on-one statistical consultation, the Department of Psychology has hosted a number of quantitative talks on a wide variety of statistical topics, some of which have been recorded. Please find the recordings and more information about the talks here."
   },
   {
     "objectID": "index.html#training-sessions-workshops",
     "href": "index.html#training-sessions-workshops",
-    "title": "Welcome to McArdle GC-3 Center!",
+    "title": "Welcome to McArdle GC3!",
     "section": "Training Sessions/ Workshops",
     "text": "Training Sessions/ Workshops\nThroughout the semester, we will hold a couple training sessions focused on popular statistical analysis or software techniques to support cutting-edge psychological research. The training sessions are free and open to all students within department of psychology.\nStay tuned to our schedules and feel free to join us!"
   },
   {
     "objectID": "index.html#location",
     "href": "index.html#location",
-    "title": "Welcome to McArdle GC-3 Center!",
+    "title": "Welcome to McArdle GC3!",
     "section": "Location",
     "text": "Location\nSGM 718\n3620 McClintock Ave\nLos Angeles, CA 90089"
   },
@@ -452,6 +452,20 @@
     "href": "others/software.html",
     "title": "Statistical Programs Available at the GC3",
     "section": "",
-    "text": "R/R Studio\n\nIf you need access to the rstan and brms R packages on the GC3 computers, please follow the instructions here to install them.\n\nPython\nMplus\nSPSS\nSAS"
+    "text": "R/R Studio\n\nIf you need access to the rstan and brms R packages on the GC3 computers, please follow the instructions here to install them.\n\nMplus\nSPSS\nStan"
+  },
+  {
+    "objectID": "index.html#what-we-offer",
+    "href": "index.html#what-we-offer",
+    "title": "Welcome to McArdle GC3!",
+    "section": "What we offer:",
+    "text": "What we offer:\n\nResearch design and selecting appropriate models for research questions\nDiscussing techniques to fit the model\nIdentifying issues with methodology or identifying violations of method assumptions\nClarifying program output\nProviding references and other resources that may assist with the analysis"
+  },
+  {
+    "objectID": "index.html#what-we-do-not-offer",
+    "href": "index.html#what-we-do-not-offer",
+    "title": "Welcome to McArdle GC3!",
+    "section": "What we do NOT offer:",
+    "text": "What we do NOT offer:\n\nProvide support for HOMEWORK or COURSE-RELATED projects\nDesign study for you\nWrite codes for you\nRun analyses for you"
   }
 ]

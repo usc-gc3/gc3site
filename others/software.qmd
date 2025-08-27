@@ -6,10 +6,8 @@ title: "Statistical Programs Available at the GC3"
 
     -   If you need access to the `rstan` and `brms` R packages on the GC3 computers, please follow the [instructions here](install_rstan.html#for-windows-users) to install them.
 
--   Python
-
 -   Mplus
 
 -   SPSS
 
--   SAS
+-   Stan
