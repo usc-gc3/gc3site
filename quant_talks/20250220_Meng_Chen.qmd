@@ -2,16 +2,16 @@
 title: "Detecting Critical Change in Dynamics Through Outlier Detection with Time-Varying Parameters"
 subtitle: "USC Quantitative Speaker Series (Spring 2025)"
 ---
-  
+
 **Date: February 20, 2025**
-  
+
 **Speaker: Meng Chen, Ph.D.**
-  
-  Assistant Professor\
+
+Assistant Professor\
 Department of Psychology\
 University of Southern California
 
-[**Video Recording**](To be updated) (requires sign in using your USC NetID)
+[**Video Recording**](To%20be%20updated) (requires sign in using your USC NetID)
 
 ### Abstract
 

@@ -1,0 +1,18 @@
+---
+title: "Methods Research for the Psychological and Social Sciences: Current Work from JAStaG"
+subtitle: "USC Quantitative Speaker Series (Fall 2025)"
+---
+
+**Date: October 21, 2025**
+
+**Speaker: Martin Hecht, Ph.D.**
+
+Professor\
+Professor of Methodology and Statistics for Psychology\
+Helmut Schmidt University Hamburg
+
+[**Video Recording**](To%20be%20updated) (requires sign in using your USC NetID)
+
+### Abstract
+
+This talk provides an overview of ongoing work in our research group, JAStaG ([jastag.org](http://jastag.org/)), which focuses on methods and statistical approaches for analyzing complex data in psychology and the social sciences. I will outline key areas of our work, including longitudinal and multilevel modeling, and discuss how these approaches address common challenges in empirical research. Throughout the talk, I will highlight how our work on methods and statistics is relevant for substantive research questions across a range of domains.

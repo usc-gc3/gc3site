@@ -1,0 +1,330 @@
+---
+title: "GC3 Roundtable #3 — Layout and Composition of Multiple Plots"
+subtitle: "From Single Figures to Cohesive Visual Stories"
+author: "Jimmy Zhang"
+date: "2025-11-06"
+format:
+  revealjs:
+    theme: [default, metropolis]
+    slide-number: true
+    toc: false
+    incremental: true
+    code-line-numbers: true
+    chalkboard: true
+    self-contained: false
+editor: visual
+execute:
+  echo: true
+  warning: false
+  message: false
+  cache: false
+engine: knitr
+---
+
+```{r}
+#| label: setup
+#| include: false
+# Load packages used in this talk.
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(patchwork)
+library(cowplot)
+library(gridExtra)
+library(ggrepel)
+library(palmerpenguins)
+library(gt)
+theme_set(theme_minimal(base_size = 13))
+```
+
+## Why layout matters
+
+-   Last time: **group comparisons** (e.g., violin/box/raincloud).
+-   Today: how **multiple plots** work together to tell one story.
+-   Good layout ⇒ stronger **visual hierarchy**, **comparability**, and **clarity**.
+-   Bad layout ⇒ **clutter**, duplicated elements, and misinterpretation.
+
+::: callout-note
+**Goal:** Compose multi-panel figures that are *publication-ready* and *reproducible*.
+:::
+
+------------------------------------------------------------------------
+
+## What we’ll cover
+
+1.  Patchwork grammar for multi-plot composition\
+2.  Advanced control: widths/heights, custom designs, legend & axis collection\
+3.  Design principles: hierarchy, accessibility, and story flow\
+4.  Demos: diagnostics dashboard, group comparisons, publication figure with tags\
+5.  Exporting & common pitfalls
+
+------------------------------------------------------------------------
+
+## Packages for layout
+
+| Package | Strength | Example |
+|----|----|----|
+| **patchwork** | Intuitive grammar & guide/axis collection | `(p1 | p2) / p3` |
+| **cowplot** | Precise alignment; plot grids | `plot_grid(p1, p2)` |
+| **gridExtra** | Base grid layouts | `grid.arrange(p1, p2)` |
+
+We’ll primarily use **patchwork**.
+
+------------------------------------------------------------------------
+
+## Data used in demos
+
+We’ll mix **simulated data** and **palmerpenguins**.
+
+```{r}
+# Simulated example data (two groups, simple outcome)
+set.seed(42)
+n <- 400
+simdat <- tibble(
+  group = sample(c("Control", "Treatment"), n, TRUE),
+  x = rnorm(n),
+  y = 0.4 * (group == "Treatment") + 0.6 * x + rnorm(n, sd = 0.8)
+)
+
+# A small model for diagnostic plots later
+mod <- lm(y ~ x + group, data = simdat)
+simdat$.fitted <- fitted(mod)
+simdat$.resid  <- resid(mod)
+
+# Penguins subset (complete cases)
+peng <- penguins |>
+  select(species, island, bill_length_mm, bill_depth_mm, body_mass_g, flipper_length_mm, sex) |>
+  drop_na()
+```
+
+------------------------------------------------------------------------
+
+## Patchwork basics: horizontal & vertical
+
+```{r}
+p1 <- ggplot(simdat, aes(group, y, fill = group)) +
+  geom_violin(trim = FALSE, alpha = 0.6) +
+  geom_boxplot(width = 0.2, outlier.shape = NA) +
+  labs(title = "Outcome by Group") +
+  theme(legend.position = "none")
+
+p2 <- ggplot(simdat, aes(x, y, color = group)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(title = "x vs y by Group")
+```
+
+```{r}
+# Side-by-side (horizontal)
+p1 | p2
+```
+
+```{r}
+# Stacked (vertical)
+p1 / p2
+```
+
+------------------------------------------------------------------------
+
+## Patchwork: nesting & layout
+
+```{r}
+# Mixed nesting
+(p1 | p2) / (p2 | p1)
+```
+
+```{r}
+# Specify grid dimensions
+(p1 | p2 | p1) + plot_layout(ncol = 3)
+```
+
+```{r}
+# Control relative widths / heights
+(p1 | p2) + plot_layout(widths = c(1.2, 1))
+```
+
+------------------------------------------------------------------------
+
+## Custom designs & spacers
+
+```{r}
+# Custom layout design string
+design <- "
+AAB
+CCD
+"
+
+p3 <- ggplot(simdat, aes(x = .fitted, y = .resid, color = group)) +
+  geom_point(alpha = 0.6) +
+  geom_hline(yintercept = 0, linetype = 2) +
+  labs(title = "Residuals vs Fitted")
+
+p4 <- ggplot(simdat, aes(sample = .resid, color = group)) +
+  stat_qq(alpha = 0.6) +
+  stat_qq_line() +
+  labs(title = "Q-Q Plot (Residuals)")
+
+p1 + p2 + p3 + p4 + plot_layout(design = design)
+```
+
+```{r}
+# Spacers for intentional whitespace
+p1 | plot_spacer() | p2
+```
+
+------------------------------------------------------------------------
+
+## Collecting legends & axes
+
+```{r}
+# Legends: collect across panels
+(p2 | p3 | p4) +
+  plot_layout(guides = "collect") +
+  plot_annotation(title = "Diagnostics with Shared Legend")
+```
+
+```{r}
+# Global theme tweaks via '&'
+((p2 | p3) / p4) &
+  theme(legend.position = "bottom",
+        plot.title.position = "plot")
+```
+
+------------------------------------------------------------------------
+
+## Demo: Diagnostics dashboard
+
+```{r}
+diag1 <- ggplot(simdat, aes(.fitted, .resid, color = group)) +
+  geom_point(alpha = 0.6) +
+  geom_hline(yintercept = 0, linetype = 2) +
+  labs(x = "Fitted", y = "Residuals", title = "Residuals vs Fitted")
+
+diag2 <- ggplot(simdat, aes(x = .resid, fill = group)) +
+  geom_histogram(position = "identity", alpha = 0.5, bins = 30) +
+  labs(x = "Residual", title = "Residual Distribution")
+
+diag3 <- ggplot(simdat, aes(sample = .resid, color = group)) +
+  stat_qq(alpha = 0.5) + stat_qq_line() +
+  labs(title = "Q–Q Plot")
+
+(diag1 | diag2 | diag3) +
+  plot_layout(guides = "collect") +
+  plot_annotation(title = "Model Diagnostics Overview")
+```
+
+------------------------------------------------------------------------
+
+## Demo: Group comparisons panel (penguins)
+
+```{r}
+gA <- ggplot(peng, aes(species, bill_length_mm, fill = species)) +
+  geom_violin(trim = FALSE, alpha = 0.6) +
+  geom_boxplot(width = 0.15, outlier.shape = NA) +
+  labs(title = "Bill Length by Species", x = NULL, y = "mm")
+
+gB <- ggplot(peng, aes(species, bill_depth_mm, fill = species)) +
+  geom_violin(trim = FALSE, alpha = 0.6) +
+  geom_boxplot(width = 0.15, outlier.shape = NA) +
+  labs(title = "Bill Depth by Species", x = NULL, y = "mm")
+
+gC <- ggplot(peng, aes(species, body_mass_g, fill = species)) +
+  geom_violin(trim = FALSE, alpha = 0.6) +
+  geom_boxplot(width = 0.15, outlier.shape = NA) +
+  labs(title = "Body Mass by Species", x = NULL, y = "g")
+
+(gA | gB | gC) +
+  plot_layout(guides = "collect") +
+  plot_annotation(title = "Morphological Differences Among Penguin Species")
+```
+
+------------------------------------------------------------------------
+
+## Publication-ready figure: tags & hierarchy
+
+```{r}
+pub <- ((gA | gB) / (gC | diag1)) +
+  plot_layout(guides = "collect", heights = c(1, 1.1)) +
+  plot_annotation(title = "Figure 2. Study Results Summary",
+                  tag_levels = "A")
+
+pub
+```
+
+------------------------------------------------------------------------
+
+## Mixing plots with a table
+
+```{r}
+tbl <- peng |>
+  group_by(species) |>
+  summarize(n = n(),
+            mean_mass = round(mean(body_mass_g), 1),
+            mean_bill = round(mean(bill_length_mm), 1),
+            .groups = "drop") |>
+  arrange(desc(n)) |>
+  gt() |>
+  tab_header(title = "Sample Summary by Species")
+
+# Render table to graphic (cowplot) for composition
+tbl_grob <- cowplot::ggdraw() + cowplot::draw_grob(grid::grid.grabExpr(print(tbl)))
+
+((gA | gB) / (gC | tbl_grob)) +
+  plot_layout(heights = c(1, 1.2)) +
+  plot_annotation(title = "Panels + Table in a Single Figure")
+```
+
+------------------------------------------------------------------------
+
+## Design guidelines (quick checklist)
+
+-   **Hierarchy:** make the most important panel larger or top-left.\
+-   **Consistency:** same theme, fonts, and scales where comparisons are intended.\
+-   **Economy:** collect legends; avoid redundant labels.\
+-   **Accessibility:** colorblind-safe palettes; sufficient text size.\
+-   **Whitespace:** breathing room improves readability.
+
+------------------------------------------------------------------------
+
+## Common pitfalls
+
+-   Overcrowding (too many tiny panels).\
+-   Misaligned axes / inconsistent scales.\
+-   Duplicate legends; forgotten units or labels.\
+-   Aspect ratio mismatches creating awkward spacing.
+
+------------------------------------------------------------------------
+
+## Export: resolution & format
+
+```{r}
+# Vector export (PDF) for print
+ggsave("gc3_multipanel_figure.pdf", plot = pub, width = 11, height = 8.5, device = cairo_pdf)
+
+# High-res PNG for slides
+ggsave("gc3_multipanel_figure.png", plot = pub, width = 11, height = 8.5, dpi = 300)
+```
+
+**Tips:** Always preview exported figures; ensure labels are legible at final size.
+
+------------------------------------------------------------------------
+
+## Mini hands-on (optional)
+
+-   Take any three plots from your work.\
+-   Compose with patchwork: set widths/heights, collect legends, add a title.\
+-   Aim for one coherent message per figure.
+
+------------------------------------------------------------------------
+
+## Takeaways
+
+-   Layout decisions **shape interpretation**.\
+-   **patchwork** provides a clean grammar for multi-plot composition.\
+-   Think in **stories**: each panel a sentence; the figure the paragraph.
+
+------------------------------------------------------------------------
+
+## Q&A
+
+Questions, edge cases, or examples from your projects?

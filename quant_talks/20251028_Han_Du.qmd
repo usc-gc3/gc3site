@@ -1,0 +1,18 @@
+---
+title: "Modeling Nonlinear Change in Psychology: Sinusoidal & Splines Approaches"
+subtitle: "USC Quantitative Speaker Series (Fall 2025)"
+---
+
+**Date: October 28, 2025**
+
+**Speaker: Han Du, Ph.D.**
+
+Associate Professor\
+Associate Professor of Psychology.\
+University of California, Los Angeles (UCLA)
+
+[**Video Recording**](To%20be%20updated) (requires sign in using your USC NetID)
+
+### Abstract
+
+Many psychological processes change nonlinearly over time. I present two studies that address this challenge. In the first study, I focus on cyclical trajectories and use sinusoidal curve modeling to show that conventional formulations can yield multiple solutions. I therefore propose a two-stage sinusoidal approach. It is mathematically simpler, avoids multiple solutions, and still evaluates how individual features influence amplitude. In the second study, to handle nonlinear change beyond cycles, I use penalized splines to test group differences at prespecified time points (e.g., baseline, midpoint, endpoint) while controlling complexity through smoothness penalties. Together, these methods provide flexible and interpretable tools for modeling nonlinear change in psychological data and for addressing focused substantive questions.
