@@ -52,7 +52,7 @@ pkgs <- c(
 )
 for (p in pkgs) {
   if (!requireNamespace(p, quietly = TRUE)) {
-    install.packages(p, dependencies = TRUE)
+    install.packages(p, dependencies = TRUE, repos = "https://cloud.r-project.org")
   }
 }
 invisible(lapply(pkgs, library, character.only = TRUE))
@@ -193,6 +193,7 @@ ggplot(df_groups, aes(x = group, y = score, fill = group)) +
 ```{r}
 #| label: fig-estimation
 #| fig-cap: "Gardner–Altman estimation plot (mean difference with 95% CI)."
+#| eval: false
 
 # 0) Attach dabestr so its S3 plot method is registered
 library(dabestr)

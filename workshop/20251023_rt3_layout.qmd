@@ -5,7 +5,7 @@ author: "Jimmy Zhang"
 date: "2025-11-06"
 format:
   revealjs:
-    theme: [default, metropolis]
+    theme: default
     slide-number: true
     toc: false
     incremental: true
