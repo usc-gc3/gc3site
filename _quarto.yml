@@ -30,7 +30,7 @@ website:
 
 format:
   html:
-    theme: 
+    theme:
       - lumen
       - custom.scss
     css: styles.css
