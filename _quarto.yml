@@ -6,8 +6,6 @@ project:
     - quant_talks
     - workshop.qmd
     - workshop
-    - "!workshop/20251023_rt2_group_comparison.qmd"
-    - "!workshop/20251023_rt3_layout.qmd"
     - resources.qmd
     - others
 
